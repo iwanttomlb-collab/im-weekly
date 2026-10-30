@@ -1,0 +1,286 @@
+{
+  "week": "2026-W44",
+  "range": "2026-10-23 to 2026-10-30",
+  "generated": "2026-10-30",
+  "glance": [
+    "IgA nephropathy: four NEJM phase 3 reports (sibeprenlimab, atacicept, povetacicept, ravulizumab) plus iptacopan long-term data; eGFR slopes stabilized on APRIL-directed agents.",
+    "LEAP-Block (JAMA): left bundle-branch area pacing beat right ventricular pacing on a composite driven by heart failure events (2.4% vs 12.5%).",
+    "AGA/AASLD issued a primary biliary cholangitis guideline (6 recommendations; PPAR agonists and linerixibat now included).",
+    "PMR imaging recommendations: imaging is for intermediate pretest probability only; no single first-line modality.",
+    "Neutral or negative: 0/1 h vs 0/3 h troponin pathway (no length-of-stay gain), rituximab vs azathioprine in EGPA, efzofitimod in sarcoidosis, mitapivat pain crises.",
+    "Empagliflozin in ADPKD (pilot, n=50): faster total kidney volume growth than placebo; hypothesis-generating."
+  ],
+  "top": [
+    {
+      "title": "IgA nephropathy: four phase 3 reports in one week",
+      "bullets": [
+        "Sibeprenlimab and atacicept final analyses add eGFR data: annualized slope about 0 vs -4.2 to -5.6 mL/min/1.73 m2/yr on placebo.",
+        "Povetacicept and ravulizumab are interim proteinuria analyses (UPCR down 52.0% and 46.6% vs 4.3% and 5.6%).",
+        "Iptacopan extension: proteinuria reduction sustained to 48 months."
+      ],
+      "caveat": "All industry-funded; 24 to 104 weeks of follow-up; tiny event counts on composite end points; no standalone kidney failure data yet.",
+      "pmids": ["42911185", "42911181", "42912669", "42912700", "42909451"],
+      "labels": ["Sibeprenlimab", "Atacicept", "Povetacicept", "Ravulizumab", "Iptacopan"]
+    },
+    {
+      "title": "LEAP-Block: LBBAP vs right ventricular pacing (JAMA)",
+      "bullets": [
+        "499 patients, AV block, LVEF 50% or higher, expected pacing burden over 40%.",
+        "Primary composite at 24 months: 2.4% vs 12.5% (HR 0.37, 95% CI 0.19-0.73).",
+        "HF events 3.4% vs 11.3%."
+      ],
+      "caveat": "Driven by HF events; no significant difference in death, biventricular upgrade, or device complications. 14 Chinese centers.",
+      "pmids": ["42949742"]
+    },
+    {
+      "title": "AGA/AASLD guideline on primary biliary cholangitis",
+      "bullets": [
+        "Suggests PBC-specific ANA when AMA-negative; UDCA first-line; liver stiffness for prognosis.",
+        "PPAR agonists for inadequate response or intolerance to UDCA; linerixibat for moderate-to-severe pruritus.",
+        "UDCA prophylaxis after liver transplantation."
+      ],
+      "caveat": "Certainty of evidence moderate to very low. Published in both Gastroenterology and Hepatology.",
+      "pmids": ["42914292", "42910434"]
+    }
+  ],
+  "guidelines": [
+    {
+      "pmid": "42914292",
+      "issuer": "AGA / AASLD",
+      "title": "Management of primary biliary cholangitis",
+      "bullets": ["6 GRADE-based recommendations; see Top 3."]
+    },
+    {
+      "pmid": "42946585",
+      "issuer": "International task force (EULAR SOP)",
+      "title": "Imaging in polymyalgia rheumatica",
+      "bullets": [
+        "3 principles, 7 recommendations.",
+        "PMR remains a clinical diagnosis; imaging not needed to confirm (high probability) or exclude (low probability).",
+        "Most useful at intermediate pretest probability; no single first-line modality, individualize."
+      ]
+    },
+    {
+      "pmid": "42929102",
+      "issuer": "AHA / AAP / ACOG / SMFM",
+      "title": "Female-specific prevention and management of cardiovascular disease (scientific statement)",
+      "bullets": [
+        "New Female Life Stage construct: perimenarche, ovarian cycling, perimenopause, postmenopause; pregnancy as a modifying event.",
+        "Crosswalks society guidance to reduce fragmentation across specialties.",
+        "Two companion AHA advisories the same week (PMID 42929148, 42929153)."
+      ]
+    },
+    {
+      "pmid": "42933492",
+      "issuer": "American Society of Onconephrology",
+      "title": "Anemia in cancer and CKD (position statement)",
+      "bullets": [
+        "Consensus diagnostic approach and management.",
+        "Open questions flagged: iron, ESAs, transfusion thresholds, HIF-PH inhibitors in malignancy."
+      ]
+    },
+    {
+      "pmid": "42957459",
+      "issuer": "Annals of the Rheumatic Diseases (practical recommendations)",
+      "title": "Revaccination after BCMA-targeted therapies in autoimmune disease",
+      "bullets": [
+        "BCMA-directed therapy lowers vaccine-specific titres and total immunoglobulins.",
+        "Proposes pragmatic revaccination with minimal serologic monitoring; evidence extrapolated from oncology."
+      ]
+    },
+    {
+      "pmid": "42928006",
+      "issuer": "KASID (Korea)",
+      "title": "Medical treatment of ulcerative colitis, 2026",
+      "bullets": [
+        "GRADE-ADOLOPMENT adaptation of source guidelines.",
+        "Covers induction and maintenance, acute severe UC, surgery, biosimilars, subcutaneous formulations, sequencing."
+      ]
+    },
+    {
+      "pmid": "42928005",
+      "issuer": "KASID (Korea)",
+      "title": "Medical treatment of Crohn's disease, 2026",
+      "bullets": [
+        "Biologic and small-molecule positioning, combination therapy, de-escalation, biosimilar switching, perianal fistulizing disease.",
+        "Companion IBD diagnosis and monitoring guideline: PMID 42928004."
+      ]
+    },
+    {
+      "pmid": "42925456",
+      "issuer": "AASM",
+      "title": "Management of shift work disorder",
+      "bullets": [
+        "All recommendations conditional.",
+        "Modafinil or armodafinil before the shift for sleepiness.",
+        "Bright light at night plus fixed daytime sleep plus reduced-light glasses for circadian adaptation (very low certainty).",
+        "No preference between 8-hour and 12-hour night shifts."
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "name": "Nephrology",
+      "items": [
+        {
+          "pmid": "42911185", "design": "RCT, phase 3", "verdict": "pos",
+          "title": "Sibeprenlimab in IgA nephropathy, final analysis",
+          "bullets": ["n=510.", "eGFR slope 0.3 vs -4.2 mL/min/1.73 m2/yr (difference 4.5).", "Composite kidney end point 0.4% vs 11.2%."],
+          "caveat": "Industry-funded; 24 months."
+        },
+        {
+          "pmid": "42911181", "design": "RCT, phase 3", "verdict": "pos",
+          "title": "Atacicept in IgA nephropathy (ORIGIN 3), final efficacy",
+          "bullets": ["n=431.", "eGFR slope through week 104: -0.60 vs -5.60 (difference 5.00).", "Composite progression 5.1% vs 17.8% (HR 0.24).", "No atacicept patient reached dialysis, transplant, or death vs 7 on placebo."],
+          "caveat": "Industry-funded."
+        },
+        {
+          "pmid": "42912669", "design": "RCT, phase 3 interim", "verdict": "pos",
+          "title": "Povetacicept in IgA nephropathy (RAINIER), interim",
+          "bullets": ["Efficacy in first 199 randomized (557 treated overall).", "UPCR -52.0% vs -4.3% at week 36; hematuria resolution 85% vs 23%.", "Serious AEs 3% vs 4%."],
+          "caveat": "Surrogate end point; trial ongoing."
+        },
+        {
+          "pmid": "42912700", "design": "RCT, phase 3 interim", "verdict": "pos",
+          "title": "Ravulizumab in IgA nephropathy, interim",
+          "bullets": ["485 randomized, 352 in interim analysis.", "UPCR -46.6% vs -5.6% at week 34.", "No meningococcal infections."],
+          "caveat": "Surrogate end point; intravenous every 8 weeks."
+        },
+        {
+          "pmid": "42909451", "design": "Open-label extension", "verdict": "desc",
+          "title": "Iptacopan long-term outcomes in IgA nephropathy",
+          "bullets": ["Up to 48 months: eGFR slope -3.49/yr; UPCR ratio to baseline 0.61, sustained.", "Placebo-to-iptacopan switchers: slope improved from -5.29 to -2.11/yr."],
+          "caveat": "Non-randomized after the parent trial."
+        },
+        {
+          "pmid": "42925875", "design": "RCT, feasibility", "verdict": "neg",
+          "title": "Empagliflozin in ADPKD",
+          "bullets": ["n=50, 12 months; well tolerated.", "Height-adjusted total kidney volume grew faster: 10.5%/yr vs 5.1%/yr.", "eGFR dip of -6.2 at 1 month, then no difference in slope."],
+          "caveat": "Small pilot; kidney volume signal is hypothesis-generating."
+        }
+      ]
+    },
+    {
+      "name": "Cardiology and cardiometabolic",
+      "items": [
+        {
+          "pmid": "42956796", "design": "IPD meta-analysis of RCTs", "verdict": "neu",
+          "title": "0/1 h vs 0/3 h troponin pathways for suspected MI",
+          "bullets": ["No reduction in ED length of stay (ratio 1.03, 95% CI 0.85-1.25).", "Direct discharge 67.0% vs 65.8% (OR 1.31, 0.79-2.16).", "Short-term adverse events low with both pathways."],
+          "caveat": "Pooled safety estimate imprecise; I2 above 97% for several outcomes."
+        },
+        {
+          "pmid": "42925557", "design": "Meta-analysis of RCTs", "verdict": "desc",
+          "title": "SGLT2 inhibitors and hemoglobin, hematocrit, iron markers",
+          "bullets": ["85 RCTs, 70,543 participants.", "Hemoglobin +0.60 g/dL, hematocrit +2.36% vs control.", "EPO up, transferrin saturation down."],
+          "caveat": "Authors state clinical significance is unclear."
+        }
+      ]
+    },
+    {
+      "name": "Endocrinology and diabetes",
+      "items": [
+        {
+          "pmid": "42937517", "design": "Cohort (active comparator)", "verdict": "desc",
+          "title": "SGLT2 inhibitors vs DPP-4 inhibitors, age 75 or older",
+          "bullets": ["4,997 vs 1,289 initiators (British Columbia).", "AKI HR 0.76 (0.60-0.95); all-cause hospitalization HR 0.87 (0.77-0.98).", "No difference in infection, DKA, falls, fractures."],
+          "caveat": "Observational; intervals for DKA, falls, fractures compatible with benefit or harm."
+        },
+        {
+          "pmid": "42937520", "design": "Target trial emulation", "verdict": "desc",
+          "title": "Semaglutide vs dulaglutide or liraglutide in hemodialysis",
+          "bullets": ["1,312 vs 2,601 users (USRDS).", "Mortality sHR 0.82 (0.70-0.97); hospitalization sHR 0.91 (0.83-0.99).", "1-year weight loss 4.8% vs 3.4%.", "Semaglutide vs liraglutide alone not significant."],
+          "caveat": "Observational; median follow-up 1.1 years."
+        }
+      ]
+    },
+    {
+      "name": "Hepatology and gastroenterology",
+      "items": [
+        {
+          "pmid": "42956772", "design": "Diagnostic accuracy (LITMUS)", "verdict": "desc",
+          "title": "Non-invasive tests in MASLD",
+          "bullets": ["1,590 biopsy-confirmed patients, 13 countries; 12 single markers, 18 panels.", "Advanced fibrosis AUC: SomaSignal 0.92, FibroMeter-VCTE 0.87, Agile 3+ 0.84.", "Cirrhosis AUC: FibroMeter-VCTE 0.94.", "Single markers weak for at-risk MASH; GGT-first two-step approaches met the 0.80 threshold."],
+          "caveat": "Reference standard is centrally scored histology in a biopsy-confirmed cohort."
+        },
+        {
+          "pmid": "42929426", "design": "RCT, phase 2b/3", "verdict": "pos",
+          "title": "Saroglitazar in PBC after inadequate UDCA response (EPICS-III)",
+          "bullets": ["Phase 3 n=148.", "Biochemical response at week 52: 56.7% vs 9.8%.", "ALP normalization 8.2% vs 0%."],
+          "caveat": "Biochemical surrogate; baseline ALP higher in the saroglitazar arm."
+        }
+      ]
+    },
+    {
+      "name": "Rheumatology and immunology",
+      "items": [
+        {
+          "pmid": "42911562", "design": "RCT, double-blind", "verdict": "neu",
+          "title": "Rituximab vs azathioprine for EGPA maintenance",
+          "bullets": ["n=98 (France).", "No difference in total remission duration over 28 months (P=.38); relapse 14.3% vs 18.4%.", "Severe infections 46.9% vs 24.5%, mainly SARS-CoV-2."],
+          "caveat": "Rituximab not superior; enrolment 2018-2022 overlapped COVID-19."
+        },
+        {
+          "pmid": "42956788", "design": "Cohort (NISSC1-LTE)", "verdict": "desc",
+          "title": "Autologous HSCT in systemic sclerosis, long-term",
+          "bullets": ["n=80, median follow-up 9.2 years.", "Progression-free survival 81% / 72% / 60% at 2 / 5 / 10 years.", "Treatment-related deaths 6%; 43% in remission off immunosuppression at 10 years."],
+          "caveat": "Uncontrolled; 12 patients lost to follow-up."
+        }
+      ]
+    },
+    {
+      "name": "Pulmonology and allergy",
+      "items": [
+        {
+          "pmid": "42933455", "design": "RCT, phase 3", "verdict": "neg",
+          "title": "Efzofitimod in pulmonary sarcoidosis (EFZO-FIT)",
+          "bullets": ["Three arms; primary end point was change in oral corticosteroid dose at week 48.", "No reduction vs placebo; well tolerated.", "Steroid taper alone reached lower doses in many patients."],
+          "caveat": "Primary end point missed."
+        },
+        {
+          "pmid": "42956801", "design": "RCT plus open-label extension", "verdict": "desc",
+          "title": "Depemokimab (twice-yearly anti-IL-5) in eosinophilic asthma, 2-year data",
+          "bullets": ["629 patients in the extension.", "Exacerbation rate 0.51 (year 1) and 0.56 (year 2).", "No treatment-related serious AEs; lung function and symptom gains maintained."],
+          "caveat": "GSK-funded; second year is uncontrolled."
+        }
+      ]
+    },
+    {
+      "name": "Infectious disease",
+      "items": [
+        {
+          "pmid": "42925126", "design": "Single-arm phase 2", "verdict": "desc",
+          "title": "Cefepime-zidebactam for carbapenem-resistant Gram-negative infections",
+          "bullets": ["72 treated; 82.4% of qualifying isolates were MBL producers (mostly NDM).", "Investigator-assessed clinical cure 91.7%; externally adjudicated 86.7%."],
+          "caveat": "No comparator arm."
+        },
+        {
+          "pmid": "42954298", "design": "Retrospective diagnostic cohort", "verdict": "desc",
+          "title": "Duke criteria versions in suspected infective endocarditis",
+          "bullets": ["3,448 suspected episodes, 38% adjudicated IE; possible IE stayed at 29-33%.", "Sensitivity for definite IE: 63% (2015 Duke-ESC) to 74% (2023 ISCVID) and 71% (2023 ESC).", "Specificity declined (72% to 59% in at least one newer version)."],
+          "caveat": "Two Swiss centers; reference standard is Endocarditis Team diagnosis."
+        }
+      ]
+    },
+    {
+      "name": "Hematology",
+      "items": [
+        {
+          "pmid": "42913682", "design": "RCT, phase 3", "verdict": "neg",
+          "title": "Mitapivat in sickle cell disease (RISE UP)",
+          "bullets": ["n=207.", "Hemoglobin response 41% vs 3%.", "Annualized pain crises 2.6 vs 3.1 (P=0.12, not significant).", "Serious AEs 20% vs 29%."],
+          "caveat": "Co-primary pain crisis end point missed; Agios-funded."
+        }
+      ]
+    }
+  ],
+  "counts": {"candidates": 191, "abstracts": 173, "pmc": 18},
+  "method": [
+    "Source: PubMed E-utilities, entry date within the last 7 days. Query A: 30 internal medicine and subspecialty journals. Query B: publication type Practice Guideline or Guideline in internal medicine topics. Duplicates removed by PMID.",
+    "Screening and summaries: Claude, from abstracts and metadata only. Numbers are copied from abstracts; open the linked record before citing.",
+    "Full text: PMC records exist for 18 of 191 candidates. A PMC record does not guarantee machine-readable full text.",
+    "Excluded by scope: oncology (including ASCO living guidelines and NEJM lung and bladder trials), neurology and stroke, pediatrics, health policy, narrative and opinion pieces.",
+    "Not searched: preprints, society websites without PubMed indexing (ACC, ESC, KDIGO, IDSA, ADA living updates), FDA actions.",
+    "Badges describe the result against the primary end point: Positive, Negative, Neutral (no clear difference), Descriptive (observational, uncontrolled, or no efficacy test)."
+  ]
+}
