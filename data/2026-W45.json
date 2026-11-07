@@ -1,0 +1,486 @@
+{
+  "week": "2026-W45",
+  "range": "2026-10-31 to 2026-11-07",
+  "generated": "2026-11-07",
+  "glance": [
+    "SHASTA-3/4 (NEJM): plozasiran cut triglycerides and acute pancreatitis (1 vs 5 per 100 patient-years) in severe hypertriglyceridemia.",
+    "PROGRESS (NEJM): transcatheter aortic valve replacement (TAVR) beat surveillance in moderate aortic stenosis with at-risk features (16.7% vs 23.9% death or heart failure (HF) event at 2 years), driven by HF events.",
+    "SIMPLAAFY (JAMA): after left atrial appendage closure (LAAC), aspirin alone and reduced-dose non-vitamin K oral anticoagulant (NOAC) were both noninferior to dual antiplatelet therapy (DAPT) at 6 months.",
+    "American Thoracic Society (ATS) guideline: strong recommendations for as-needed inhaled corticosteroid (ICS)-containing relievers at National Asthma Education and Prevention Program (NAEPP) steps 1-2 and ICS-formoterol maintenance-and-reliever therapy (MART) at steps 3-5.",
+    "Neutral or negative: hydralazine-isosorbide dinitrate in contemporary heart failure with reduced ejection fraction (HFrEF) (H-HeFT), conservative kidney management vs dialysis preparation in frail older adults (no quality-adjusted life-year (QALY) difference).",
+    "Ertapenem-resistant, meropenem-susceptible Enterobacterales: higher 30-day mortality on imipenem or meropenem (odds ratio (OR) 2.24), challenging Infectious Diseases Society of America (IDSA) guidance."
+  ],
+  "top": [
+    {
+      "title": "Plozasiran in severe hypertriglyceridemia (SHASTA-3 and SHASTA-4, NEJM)",
+      "bullets": [
+        "757 adults, 2:1 to plozasiran 25 mg or placebo at baseline and months 3, 6, 9.",
+        "Placebo-adjusted triglyceride change at 12 months: -45 and -47 percentage points; triglycerides below 500 mg/dL in 91% and 93% vs 51% and 50%.",
+        "Pooled acute pancreatitis: 1 vs 5 per 100 patient-years (rate ratio 0.22; P = 0.008)."
+      ],
+      "caveat": "Funded by Arrowhead; primary end point is triglyceride change; pancreatitis from a pooled analysis over 12 months.",
+      "pmids": [
+        "42981569"
+      ]
+    },
+    {
+      "title": "PROGRESS: transcatheter aortic valve replacement (TAVR) vs clinical surveillance in moderate aortic stenosis (NEJM)",
+      "bullets": [
+        "744 patients with moderate aortic stenosis (AS) and at least one at-risk feature; mean age 78 years, mean valve area 1.2 cm2.",
+        "Death or heart failure (HF) event at 2 years: 16.7% vs 23.9% (risk difference -7.2 points, 95% confidence interval (CI) -13.1 to -1.3).",
+        "Death 8.4% vs 7.3%; HF events 10.8% vs 19.0%."
+      ],
+      "caveat": "Open-label; funded by Edwards Lifesciences; benefit driven by HF events, which are open to ascertainment bias; no mortality difference.",
+      "pmids": [
+        "42970708"
+      ]
+    },
+    {
+      "title": "SIMPLAAFY: antithrombotic therapy after left atrial appendage closure (JAMA)",
+      "bullets": [
+        "1857 patients, 1:1:1 to dual antiplatelet therapy (DAPT) 6 months, reduced-dose non-vitamin K oral anticoagulant (NOAC) 3 months, or aspirin alone 12 months.",
+        "6-month death, stroke, embolism or major bleeding: 6.9% DAPT vs 5.1% NOAC (relative risk (RR) 0.75) vs 3.3% aspirin (RR 0.49); both noninferior.",
+        "Device-related thrombus 3.4%, 0.9%, and 2.7%."
+      ],
+      "caveat": "Open-label; 6-month follow-up; uncomplicated left atrial appendage closure (LAAC) only; bleeding and thrombus outcomes exploratory.",
+      "pmids": [
+        "42970643"
+      ]
+    }
+  ],
+  "guidelines": [
+    {
+      "pmid": "42974958",
+      "issuer": "ATS",
+      "title": "As-needed inhaled corticosteroids in asthma (clinical practice guideline)",
+      "bullets": [
+        "Six population, intervention, comparison, outcome (PICO) questions, Grading of Recommendations Assessment, Development and Evaluation (GRADE); adolescents and adults across National Asthma Education and Prevention Program (NAEPP) steps 1-5.",
+        "Steps 1-2: strong for as-needed-only inhaled corticosteroid (ICS)-short-acting beta2-agonist (SABA) or ICS-formoterol over SABA only; conditional over scheduled ICS plus as-needed SABA.",
+        "Steps 3-5: strong for ICS-formoterol maintenance-and-reliever therapy (MART) over scheduled ICS-long-acting beta2-agonist (LABA) plus as-needed SABA; conditional for ICS+SABA reliever over SABA reliever on scheduled ICS-LABA."
+      ]
+    },
+    {
+      "pmid": "42992835",
+      "issuer": "AASLD (Expert Practice Opinion)",
+      "title": "Diagnosis and management of hepatitis delta virus infection",
+      "bullets": [
+        "Test every hepatitis B surface antigen (HBsAg)-positive person at least once for hepatitis delta virus (HDV) antibody; confirm with HDV RNA.",
+        "Elastography-based fibrosis assessment; labs and hepatocellular carcinoma (HCC) surveillance every 6 months.",
+        "Compensated chronic HDV viremia: bulevirtide for suppression, or bulevirtide plus pegylated interferon (peg-IFN) alfa-2a for a finite course."
+      ]
+    },
+    {
+      "pmid": "42971428",
+      "issuer": "EUVAS focus group (position report)",
+      "title": "Kidney end points in anti-neutrophil cytoplasmic antibody (ANCA)-associated vasculitis",
+      "bullets": [
+        "Expert proposal for standardized definitions: active kidney disease, response, refractory disease, remission, relapse, recovery, kidney failure.",
+        "Research agenda; Delphi consensus to follow."
+      ]
+    },
+    {
+      "pmid": "42993906",
+      "issuer": "ESCP / UEG / ESGAR / EAGEN / ESGENA / ESNM / ESPCG",
+      "title": "Multidisciplinary management of obstructed defecation syndrome",
+      "bullets": [
+        "28 statements: 1 moderate, 2 low, 3 very low certainty, 22 expert opinion.",
+        "Conservative treatment first; biofeedback before surgery when dyssynergia and diet and laxatives fail.",
+        "Surgery only for selected persistent cases after multidisciplinary pelvic floor evaluation."
+      ]
+    },
+    {
+      "pmid": "42977288",
+      "issuer": "PANCCO (Latin America)",
+      "title": "Management of Crohn's disease in adults",
+      "bullets": [
+        "Adaptation and update of the 2020 Colombian guideline; Grading of Recommendations Assessment, Development and Evaluation (GRADE).",
+        "52 recommendations across 7 questions: relapse prediction, conventional and advanced therapy, perianal fistulizing disease, surgical-endoscopic approach, postoperative recurrence."
+      ]
+    },
+    {
+      "pmid": "42971815",
+      "issuer": "SEMERGEN / RedGDPS / semFYC / SEMG / FAECAP (Spain)",
+      "title": "Continuous glucose monitoring in primary care",
+      "bullets": [
+        "Delphi of 58 primary care professionals.",
+        "Covers indication, prescription, initiation, monitoring, and discontinuation within shared decision-making."
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "name": "Cardiology and cardiometabolic",
+      "items": [
+        {
+          "pmid": "42981569",
+          "design": "RCT, phase 3 (two trials, pooled)",
+          "verdict": "pos",
+          "title": "Plozasiran for severe hypertriglyceridemia (SHASTA-3, SHASTA-4)",
+          "bullets": [
+            "n=757.",
+            "Median triglyceride reduction from baseline 79% and 81%; placebo-adjusted -45 and -47 points.",
+            "Acute pancreatitis 1 vs 5 per 100 patient-years (rate ratio 0.22).",
+            "Adverse events 73% in both groups."
+          ],
+          "caveat": "Industry-funded; 12 months; see Top 3."
+        },
+        {
+          "pmid": "42970708",
+          "design": "RCT, open-label",
+          "verdict": "pos",
+          "title": "Transcatheter aortic valve replacement (TAVR) in moderate aortic stenosis with at-risk features (PROGRESS)",
+          "bullets": [
+            "n=744; 45.6% low surgical risk.",
+            "Death or heart failure (HF) event at 2 years 16.7% vs 23.9%.",
+            "HF events 10.8% vs 19.0%; death 8.4% vs 7.3%."
+          ],
+          "caveat": "Industry-funded; open-label; composite driven by HF events."
+        },
+        {
+          "pmid": "42970643",
+          "design": "RCT, open-label, 3-arm noninferiority",
+          "verdict": "pos",
+          "title": "Antithrombotic therapy after left atrial appendage closure (LAAC) (SIMPLAAFY)",
+          "bullets": [
+            "n=1857; mean CHA2DS2-VASc 4.2.",
+            "Primary composite 6.9% dual antiplatelet therapy (DAPT), 5.1% reduced-dose non-vitamin K oral anticoagulant (NOAC), 3.3% aspirin.",
+            "Major bleeding 4.5%, 2.7%, 1.7%."
+          ],
+          "caveat": "6-month follow-up; secondary outcomes not multiplicity-adjusted."
+        },
+        {
+          "pmid": "42969897",
+          "design": "RCT, open-label noninferiority",
+          "verdict": "pos",
+          "title": "Coronary CT angiography (CCTA)-guided vs intravascular ultrasound (IVUS)-guided percutaneous coronary intervention (PCI) (P4)",
+          "bullets": [
+            "n=1105; CT-derived fractional flow reserve (FFR-CT) 0.80 or less.",
+            "Target-vessel failure at 12 months 4.1% vs 4.6% (risk difference -0.42 points, 95% confidence interval (CI) -2.82 to 1.99); noninferior, not superior.",
+            "Procedural complications 6 vs 9 patients."
+          ],
+          "caveat": "Funded by GE HealthCare and Heartflow; margin 4.5 points against low event rates; 12 months."
+        },
+        {
+          "pmid": "42965504",
+          "design": "RCT, open-label",
+          "verdict": "pos",
+          "title": "Transcatheter aortic valve replacement (TAVR) plus guideline-directed medical therapy (GDMT) vs GDMT alone in severe pure aortic regurgitation (SEASON-AR)",
+          "bullets": [
+            "n=210, high or prohibitive surgical risk, 18 Chinese centers.",
+            "Death, disabling stroke or heart failure (HF) rehospitalization at 1 year 8.3% vs 24.8% (hazard ratio (HR) 0.31).",
+            "HF rehospitalization 3.7% vs 21.3%; more major bleeding and new pacemakers with TAVR."
+          ],
+          "caveat": "Small; open-label; single device (VitaFlow); 1-year follow-up."
+        },
+        {
+          "pmid": "42978512",
+          "design": "RCT, double-blind",
+          "verdict": "neg",
+          "title": "Hydralazine-isosorbide dinitrate in contemporary heart failure with reduced ejection fraction (HFrEF) (H-HeFT)",
+          "bullets": [
+            "n=592, 23 Danish hospitals, mean follow-up 3.7 years.",
+            "Primary composite 30.6% vs 30.5% (hazard ratio (HR) 0.90, 95% confidence interval (CI) 0.67-1.21).",
+            "Deaths 57 vs 72 (HR 0.72, 0.51-1.02)."
+          ],
+          "caveat": "Predominantly White population; not powered for mortality."
+        },
+        {
+          "pmid": "42976899",
+          "design": "Registry, target trial emulation",
+          "verdict": "desc",
+          "title": "Percutaneous coronary intervention (PCI) vs coronary artery bypass grafting (CABG) for left main disease, long-term (IRIS-MAIN)",
+          "bullets": [
+            "5379 Asian patients; median follow-up 10.0 years.",
+            "10-year mortality 24.0% vs 22.9% (overlap-weighted hazard ratio (HR) 1.00, 95% confidence interval (CI) 0.87-1.14)."
+          ],
+          "caveat": "Non-randomized; CI does not exclude benefit or harm."
+        },
+        {
+          "pmid": "42974684",
+          "design": "Open-label extension",
+          "verdict": "desc",
+          "title": "Vutrisiran in transthyretin amyloidosis (ATTR) cardiomyopathy through month 48 (HELIOS-B open-label extension (OLE))",
+          "bullets": [
+            "466 entered the extension.",
+            "Continuous vs delayed vutrisiran: first cardiovascular (CV) event or death hazard ratio (HR) 0.63; death HR 0.63.",
+            "Kansas City Cardiomyopathy Questionnaire overall summary (KCCQ-OS) difference 9.0; N-terminal pro-B-type natriuretic peptide (NT-proBNP) ratio 0.66."
+          ],
+          "caveat": "Comparison of early vs delayed start, not randomized after the parent trial."
+        },
+        {
+          "pmid": "42980634",
+          "design": "RCT, open-label noninferiority",
+          "verdict": "pos",
+          "title": "Single vs double ProGlide closure after transfemoral transcatheter aortic valve replacement (TAVR) (SINGLE-CLOSURE)",
+          "bullets": [
+            "n=876, 25 Chinese centers.",
+            "Access-site vascular complications 13.1% vs 15.1% (difference -2.2%); noninferior.",
+            "Major vascular complications 0.5% vs 1.4%; extra closure devices 2.5% vs 0.9%."
+          ],
+          "caveat": "Events mostly minor; in-hospital end point only."
+        },
+        {
+          "pmid": "42980633",
+          "design": "Single-arm trial, 2-year follow-up",
+          "verdict": "desc",
+          "title": "Transseptal transcatheter mitral valve replacement (TMVR) with SAPIEN M3 (ENCIRCLE)",
+          "bullets": [
+            "299 treated; mitral regurgitation (MR) 1+ or less in 97.0% at 2 years.",
+            "Death or heart failure (HF) hospitalization 35.6% (death 25.1%).",
+            "Disabling stroke 6.6%, valve thrombosis 7.1%, hemolysis requiring intervention 7.6%."
+          ],
+          "caveat": "No control arm; outcomes in survivors."
+        },
+        {
+          "pmid": "42969101",
+          "design": "Pooled cohorts and EHR validation",
+          "verdict": "desc",
+          "title": "PREVENT-HF equations by heart failure (HF) subtype",
+          "bullets": [
+            "Pooled cohorts n=23,652 plus two electronic health record (EHR) samples (29,815 and 138,999).",
+            "area under the receiver operating characteristic curve (AUROC) heart failure with preserved ejection fraction (HFpEF) 0.824-0.897 vs heart failure with reduced ejection fraction (HFrEF) 0.789-0.833.",
+            "Calibration similar for both subtypes."
+          ],
+          "caveat": "Equations not built for subtype prediction; thresholds not established."
+        }
+      ]
+    },
+    {
+      "name": "Nephrology",
+      "items": [
+        {
+          "pmid": "42982076",
+          "design": "RCT, pragmatic, open-label",
+          "verdict": "neu",
+          "title": "Conservative kidney management vs dialysis preparation in frail older adults (Prepare for Kidney Care)",
+          "bullets": [
+            "n=445, median age 82, 31 UK centers, mean follow-up 4.5 years.",
+            "quality-adjusted life-years (QALYs) 1.354 vs 1.472 (adjusted difference -0.147, 95% confidence interval (CI) -0.350 to 0.056).",
+            "Dialysis access complications lower with responsive management (incidence rate ratio (IRR) 0.41); deaths 69% vs 63%."
+          ],
+          "caveat": "Only 7% of screened patients randomized; harms not prespecified."
+        }
+      ]
+    },
+    {
+      "name": "Endocrinology and diabetes",
+      "items": [
+        {
+          "pmid": "42976894",
+          "design": "Retrospective cohort, 49 centers",
+          "verdict": "desc",
+          "title": "Ectopic Cushing syndrome outcomes",
+          "bullets": [
+            "n=1463; 57.1% metastatic; median follow-up 57 months.",
+            "Cushing-related death 13.4%; infection 31.7%; venous thromboembolism (VTE) 8.5%.",
+            "Complete biochemical remission within 6 months: lower late complications (adjusted hazard ratio (aHR) 0.55) and Cushing-related mortality (0.49)."
+          ],
+          "caveat": "Retrospective; investigator-adjudicated cause of death."
+        },
+        {
+          "pmid": "42963906",
+          "design": "Prospective cohort with external validation",
+          "verdict": "desc",
+          "title": "Body mass index (BMI)-specific waist circumference and incident type 2 diabetes in older women (Women's Health Initiative (WHI))",
+          "bullets": [
+            "n=133,620 WHI women; validated in Health and Retirement Study (HRS) and Healthy Aging in Neighborhoods of Diversity across the Life Span (HANDLS).",
+            "Joint body mass index and waist circumference (BMI-WC) categories hazard ratios (HRs) 1.40-4.43.",
+            "C-statistics about 0.60-0.75."
+          ],
+          "caveat": "Women only; modest individual discrimination."
+        },
+        {
+          "pmid": "42989599",
+          "design": "Cohort (MrOS)",
+          "verdict": "desc",
+          "title": "Sex hormones and muscle and function in men aged 78-97",
+          "bullets": [
+            "n=477; 247 with 6-year follow-up.",
+            "Higher total testosterone linked to higher deuterated creatine dilution (D3Cr) muscle mass and less decline in grip strength, walk speed, and chair stands."
+          ],
+          "caveat": "Observational; single hormone measurement; attrition."
+        }
+      ]
+    },
+    {
+      "name": "Hepatology and gastroenterology",
+      "items": [
+        {
+          "pmid": "42987205",
+          "design": "RCT, phase 3",
+          "verdict": "pos",
+          "title": "Elafibranor for alkaline phosphatase (ALP) normalization in primary biliary cholangitis (PBC) with ALP above 1 to below 1.67x upper limit of normal (ULN) (ELSPIRE)",
+          "bullets": [
+            "n=92, 2:1, 52 weeks.",
+            "ALP normalization 85.3% vs 23.3% (difference 62.0%).",
+            "ALP change -36.5% vs -4.2%."
+          ],
+          "caveat": "Small; biochemical surrogate end point; 1 year."
+        }
+      ]
+    },
+    {
+      "name": "Rheumatology and immunology",
+      "items": [
+        {
+          "pmid": "42980467",
+          "design": "RCT, single-center, open-label",
+          "verdict": "pos",
+          "title": "Smartphone-enabled physician-supervised treat-to-target for gout",
+          "bullets": [
+            "280 men, 12 months.",
+            "serum urate (SUA) below 360 umol/L: 85.0% vs 48.6% (relative risk (RR) 1.75).",
+            "Flares 0.02 vs 0.10 per year."
+          ],
+          "caveat": "Single center; men only; open-label."
+        },
+        {
+          "pmid": "42971234",
+          "design": "Registry cohort (BILAG-BR)",
+          "verdict": "desc",
+          "title": "Ethnicity and response to treatment escalation in systemic lupus erythematosus (SLE)",
+          "bullets": [
+            "n=422; major clinical response at 12 months 23% overall.",
+            "Black 10% vs White 24%; adjusted odds ratio (OR) 0.13 (95% confidence interval (CI) 0.02-0.88)."
+          ],
+          "caveat": "Observational; small subgroups; wide CI; industry co-funding."
+        }
+      ]
+    },
+    {
+      "name": "Pulmonology and allergy",
+      "items": [
+        {
+          "pmid": "42993069",
+          "design": "Cohort, development and validation",
+          "verdict": "desc",
+          "title": "Pre-COPD score to predict incident chronic obstructive pulmonary disease (COPD)",
+          "bullets": [
+            "Derived in Copenhagen General Population Study (CGPS) (n=14,506); validated in Copenhagen City Heart Study (CCHS) and COPDGene.",
+            "10-year incidence in CGPS 1.5%, 9.3%, 24%, 42% across risk categories.",
+            "area under the curve (AUC) 0.88, 0.76, 0.81."
+          ],
+          "caveat": "Pre-bronchodilator spirometry definitions; mostly Danish populations."
+        },
+        {
+          "pmid": "42968390",
+          "design": "Post hoc analysis of 2 RCTs",
+          "verdict": "desc",
+          "title": "Dupilumab and lung function in chronic obstructive pulmonary disease (COPD) with type 2 inflammation (BOREAS, NOTUS)",
+          "bullets": [
+            "n=1874.",
+            "Pre-bronchodilator forced expiratory volume in 1 second (FEV1) +83 mL vs placebo; post-bronchodilator +71 mL.",
+            "Greater effect with higher eosinophils or fractional exhaled nitric oxide (FeNO)."
+          ],
+          "caveat": "Post hoc; spirometric outcomes only."
+        },
+        {
+          "pmid": "42981082",
+          "design": "Cohort analysis (MESA, SHHS)",
+          "verdict": "desc",
+          "title": "Desaturation-based sleep apnea scoring in Black individuals",
+          "bullets": [
+            "Black participants: about 20% fewer airflow events met the 4% desaturation criterion (ratio 0.79 and 0.80).",
+            "Heart-rate-response apnea-hypopnea index (AHI) linked to major adverse cardiovascular events (MACE) or mortality in both cohorts (hazard ratio (HR) 1.33 and 1.26)."
+          ],
+          "caveat": "Observational; self-identified race as proxy for pigmentation."
+        }
+      ]
+    },
+    {
+      "name": "Infectious disease",
+      "items": [
+        {
+          "pmid": "42982070",
+          "design": "RCT, phase 3 noninferiority",
+          "verdict": "pos",
+          "title": "Imipenem-cilastatin-funobactam vs imipenem-relebactam in hospital-acquired bacterial pneumonia (HABP) and ventilator-associated bacterial pneumonia (VABP)",
+          "bullets": [
+            "n=449, 62 hospitals (58 in China).",
+            "14-day mortality 3.0% vs 2.7% (difference 0.2%, 95% confidence interval (CI) -3.5 to 4.0).",
+            "Grade 3 or higher treatment-related adverse events (AEs) 7% vs 11%."
+          ],
+          "caveat": "Industry-funded; low mortality relative to 10% margin."
+        },
+        {
+          "pmid": "42974756",
+          "design": "Prospective cohort",
+          "verdict": "desc",
+          "title": "Imipenem or meropenem for ertapenem-resistant Enterobacterales",
+          "bullets": [
+            "n=374; 36% ertapenem-resistant, carbapenemase-negative.",
+            "30-day mortality higher with ertapenem resistance (odds ratio (OR) 2.24, 95% confidence interval (CI) 1.26-3.98).",
+            "Porin alterations and extra beta-lactamase genes enriched."
+          ],
+          "caveat": "Observational, weighted comparison; residual confounding possible."
+        },
+        {
+          "pmid": "42981061",
+          "design": "Population cohort",
+          "verdict": "desc",
+          "title": "Shoulder injury after COVID-19 vs influenza vaccination (shoulder injury related to vaccine administration (SIRVA))",
+          "bullets": [
+            "1,901,588 vaccinations at Kaiser Permanente Southern California.",
+            "1.84 vs 1.15 per 10,000 (adjusted relative risk (RR) 1.63; +0.67 per 10,000).",
+            "Age 65 or older vs high-dose influenza: RR 1.41 (0.92-2.15)."
+          ],
+          "caveat": "Natural language processing (NLP)-based case finding; single health system; one season."
+        },
+        {
+          "pmid": "42970801",
+          "design": "Prospective cohort (RECOVER-Adult)",
+          "verdict": "desc",
+          "title": "Timing of long COVID improvement",
+          "bullets": [
+            "n=1019 with likely long COVID at 12 months.",
+            "Primary improvement 36.2% by 24 months, 50.1% by 36 months.",
+            "Long COVID Research Index (LCRI) to 0 in 26.9% by 36 months."
+          ],
+          "caveat": "Observational; no causal inference."
+        }
+      ]
+    },
+    {
+      "name": "Hematology",
+      "items": [
+        {
+          "pmid": "42986895",
+          "design": "Registry cohort",
+          "verdict": "desc",
+          "title": "KIT D816V-selective tyrosine kinase inhibitors (TKIs) in systemic mastocytosis with associated myeloid neoplasm",
+          "bullets": [
+            "n=201.",
+            "Overall survival 37.9 vs 17.8 months.",
+            "36-month acute myeloid leukemia (AML) transformation 5.9% vs 27.1%."
+          ],
+          "caveat": "Observational; treatment selection bias; abstract is a brief summary."
+        },
+        {
+          "pmid": "42977758",
+          "design": "RCT, phase 1b (partially randomized)",
+          "verdict": "desc",
+          "title": "SER-155 live biotherapeutic in allogeneic hematopoietic cell transplantation (HCT) recipients",
+          "bullets": [
+            "Randomized cohort 45; 34 transplanted (20 SER-155, 14 placebo).",
+            "Safety comparable to placebo; engraftment of 16 of 16 strains.",
+            "Bloodstream infection 10.0% vs 43% (odds ratio (OR) 0.15, 95% confidence interval (CI) 0.01-1.13); other efficacy end points not significant."
+          ],
+          "caveat": "Phase 1b safety trial; bloodstream infection (BSI) is a secondary end point with a CI crossing 1."
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "candidates": 124,
+    "abstracts": 111,
+    "pmc": 4
+  },
+  "method": [
+    "Source: PubMed E-utilities, entry date within the last 7 days. Query A: 30 internal medicine and subspecialty journals. Query B: publication type Practice Guideline or Guideline in internal medicine topics. Duplicates removed by PMID.",
+    "Screening and summaries: Claude, from abstracts and metadata only. Numbers are copied from abstracts; open the linked record before citing.",
+    "Full text: PMC records exist for 4 of 124 candidates. A PMC record does not guarantee machine-readable full text.",
+    "Excluded by scope: oncology, neurology and stroke, pediatrics (including the KALUMI malaria trial), surgery-only, health policy, narrative and opinion pieces. ACP Journal Club synopses in Annals were skipped because they carry no abstract.",
+    "Not searched: preprints, society websites without PubMed indexing (ACC, ESC, KDIGO, IDSA, ADA living updates), FDA actions.",
+    "Badges describe the result against the primary end point: Positive, Negative, Neutral (no clear difference), Descriptive (observational, uncontrolled, or no efficacy test)."
+  ]
+}
