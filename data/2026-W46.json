@@ -1,0 +1,497 @@
+{
+ "week": "2026-W46",
+ "range": "2026-11-07 to 2026-11-14",
+ "generated": "2026-11-14",
+ "glance": [
+  "Two large NEJM outcome trials were neutral: ziltivekimab (interleukin-6 (IL-6) inhibition, ZEUS) and pelacarsen (lipoprotein(a) lowering, Lp(a)HORIZON), with MACE hazard ratios (HR) of 0.99 and 1.02.",
+  "Systolic blood pressure (SBP) target below 120 mm Hg in type 2 diabetes: no MACE benefit in OPTIMAL-DIABETES (HR 0.90) and no cognitive benefit in BPROAD (HR 0.96).",
+  "OptimPacing (NEJM): left bundle-branch pacing beat right ventricular pacing in atrioventricular block (4-year composite 8.5% vs 19.2%; HR 0.41).",
+  "Older adults: stopping primary-prevention statins was noninferior at 2 years (STREAM), and holding the angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB) on the morning of non-cardiac surgery cut perioperative hypotension (31.2% vs 45.5%).",
+  "PEPPER (NEJM, n=18,883): aspirin was not noninferior to rivaroxaban or warfarin for venous thromboembolism (VTE) prophylaxis after hip or knee arthroplasty.",
+  "Guidelines: IgG4ward! Foundation treatment guidelines for IgG4-related disease (22 of 28 statements reached consensus) and a Korean autoimmune pancreatitis guideline."
+ ],
+ "top": [
+  {
+   "title": "Anti-inflammatory and lipoprotein(a) strategies fail on outcomes (ZEUS and Lp(a)HORIZON, NEJM)",
+   "bullets": [
+    "ZEUS: 6376 patients with atherosclerotic cardiovascular disease (ASCVD), chronic kidney disease (CKD) and high-sensitivity C-reactive protein (hsCRP) of 2 mg/L or more; ziltivekimab 15 mg monthly lowered hsCRP by 64 percentage points vs placebo, but MACE was 17.6% vs 17.7% (HR 0.99; 95% CI 0.88 to 1.11) over median 33 months; serious infections 20.4% vs 17.9%.",
+    "Lp(a)HORIZON: 8322 patients with cardiovascular disease and Lp(a) of 70 mg/dL or more; pelacarsen 80 mg monthly lowered Lp(a) to 64.4 vs 233.4 nmol/L, but MACE was 12.3% vs 12.1% (HR 1.02; 95% CI 0.90 to 1.15) over median 4.7 years.",
+    "Lp(a) of 90 mg/dL or more: 12.3% vs 12.3% (HR 1.00)."
+   ],
+   "caveat": "Funded by Novo Nordisk and Novartis; both large, adequately followed trials with a large biomarker effect, so a null result is informative for these mechanisms.",
+   "pmids": [
+    "43001751",
+    "43001734"
+   ],
+   "labels": [
+    "ZEUS",
+    "Lp(a)HORIZON"
+   ]
+  },
+  {
+   "title": "SBP target below 120 mm Hg in type 2 diabetes (OPTIMAL-DIABETES, NEJM; BPROAD cognitive outcomes, BMJ)",
+   "bullets": [
+    "OPTIMAL-DIABETES (Brazil, n=9476, open label): achieved SBP 121.8 vs 135.4 mm Hg; MACE 6.0% vs 6.7% (HR 0.90; 95% CI 0.77 to 1.06; P = 0.20) over median 4.0 years; serious adverse events 14.9% vs 14.6%.",
+    "BPROAD (China, 12,434 without probable dementia): dementia or mild cognitive impairment 3.69 vs 3.89 per 100 person-years (HR 0.96; 95% CI 0.86 to 1.06).",
+    "BPROAD MRI subset (n=862): smaller increase in white matter lesion volume with intensive treatment (difference -0.09 asinh cm3; P = 0.01)."
+   ],
+   "caveat": "Both open label; BPROAD cognitive outcomes are prespecified secondary outcomes; MRI subset is small with attrition (605 at end of study).",
+   "pmids": [
+    "43001746",
+    "43020520"
+   ],
+   "labels": [
+    "OPTIMAL-DIABETES",
+    "BPROAD"
+   ]
+  },
+  {
+   "title": "Left bundle-branch pacing vs right ventricular pacing for atrioventricular block (OptimPacing, NEJM)",
+   "bullets": [
+    "702 randomized, 685 in modified intention-to-treat; stopped early at the prespecified interim analysis.",
+    "Death, heart failure hospitalization or pacing-induced cardiomyopathy: 16 vs 35 events; 4-year cumulative incidence 8.5% vs 19.2% (HR 0.41; 95% CI 0.23 to 0.75; P = 0.003).",
+    "Serious adverse events unrelated to implantation: 11.8% vs 9.3% (P = 0.32)."
+   ],
+   "caveat": "Investigator-initiated, open label; early termination with 51 total events inflates effect estimates; composite includes a softer component (pacing-induced cardiomyopathy).",
+   "pmids": [
+    "43001763"
+   ]
+  }
+ ],
+ "guidelines": [
+  {
+   "pmid": "43003101",
+   "issuer": "IgG4ward! Foundation",
+   "title": "Treatment of IgG4-related disease",
+   "bullets": [
+    "62 contributors (52 physicians, 8 patients) from 15 countries; first dedicated treatment guideline since the 2015 consensus, prompted by two recent phase 3 placebo-controlled trials.",
+    "40 questions, 28 treatment statements graded by Oxford Centre for Evidence-Based Medicine levels; consensus (more than 80% agreement) reached for 22 of 28.",
+    "Most statements still rest on low-level evidence; abstract does not list the individual recommendations."
+   ]
+  },
+  {
+   "pmid": "43021743",
+   "issuer": "Korean Pancreatobiliary Association",
+   "title": "Clinical practice guideline for autoimmune pancreatitis",
+   "bullets": [
+    "Covers diagnosis, steroid treatment, maintenance therapy, relapse management and follow-up.",
+    "Delphi consensus with graded evidence and recommendation strength, adapted to the Korean healthcare setting; abstract gives no specific recommendations."
+   ]
+  },
+  {
+   "pmid": "43012109",
+   "issuer": "AHA (scientific statement)",
+   "title": "Cardiovascular health promotion for US veterans",
+   "bullets": [
+    "Applies Life's Essential 8, expanded to mental health and substance use, to the veteran population.",
+    "Veterans in Veterans Affairs care often achieve outcomes equal to or better than non-VA counterparts; gaps remain in lifestyle, metabolic, lipid and blood pressure control, mental health engagement and sleep disorder detection."
+   ]
+  },
+  {
+   "pmid": "43024818",
+   "issuer": "Med Sci Sports Exerc (Task Force 9)",
+   "title": "Care of athletes with cardiac channelopathies",
+   "bullets": [
+    "Covers long QT, catecholaminergic polymorphic ventricular tachycardia, Brugada and short QT syndromes.",
+    "Moves away from blanket exclusion: return to play through shared decision-making after specialist assessment, risk stratification and treatment."
+   ]
+  },
+  {
+   "pmid": "43002254",
+   "issuer": "Fragility Fracture Network",
+   "title": "International care model for vertebral fragility fracture",
+   "bullets": [
+    "Adapted from an international Delphi consensus and national guidance, with knowledge-user survey input from 40 countries.",
+    "Three domains: pain management, improving physical functioning, and fall and fracture prevention (including vitamin D, calcium and osteoporosis medication initiation); defined key performance indicators."
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "name": "Cardiology and cardiometabolic",
+   "items": [
+    {
+     "pmid": "43001751",
+     "design": "RCT, phase 3",
+     "verdict": "neu",
+     "title": "Ziltivekimab in ASCVD with CKD and inflammation (ZEUS)",
+     "bullets": [
+      "n=6376; mean age 69.4 years.",
+      "Free IL-6 -76 and hsCRP -64 percentage points vs placebo at 24 months.",
+      "MACE 17.6% vs 17.7% (HR 0.99; 95% CI 0.88 to 1.11; P = 0.84).",
+      "Serious infections 20.4% vs 17.9%."
+     ],
+     "caveat": "Funded by Novo Nordisk; median follow-up 33 months."
+    },
+    {
+     "pmid": "43001734",
+     "design": "RCT, phase 3",
+     "verdict": "neu",
+     "title": "Pelacarsen in cardiovascular disease with high Lp(a) (Lp(a)HORIZON)",
+     "bullets": [
+      "n=8322; median baseline Lp(a) 236 nmol/L; 12-month Lp(a) 64.4 vs 233.4 nmol/L.",
+      "MACE 12.3% vs 12.1% (HR 1.02; 95% CI 0.90 to 1.15; P = 0.76).",
+      "Lp(a) of 90 mg/dL or more: 12.3% vs 12.3% (HR 1.00).",
+      "Serious adverse events 37.3% vs 41.1%."
+     ],
+     "caveat": "Funded by Novartis; median follow-up 4.7 years."
+    },
+    {
+     "pmid": "43001746",
+     "design": "RCT, open label",
+     "verdict": "neu",
+     "title": "SBP below 120 vs below 140 mm Hg in type 2 diabetes (OPTIMAL-DIABETES)",
+     "bullets": [
+      "n=9476 in Brazil; 62.0% women.",
+      "Mean SBP 121.8 vs 135.4 mm Hg.",
+      "Primary composite 6.0% vs 6.7% (1.65 vs 1.83 per 100 person-years; HR 0.90; 95% CI 0.77 to 1.06)."
+     ],
+     "caveat": "Open label; publicly funded; median follow-up 4.0 years."
+    },
+    {
+     "pmid": "43020520",
+     "design": "RCT, prespecified secondary analysis",
+     "verdict": "neu",
+     "title": "Intensive SBP control and cognition in type 2 diabetes (BPROAD)",
+     "bullets": [
+      "12,434 participants without probable dementia; SBP at 1 year 121.6 vs 133.2 mm Hg.",
+      "Dementia or mild cognitive impairment: HR 0.96 (95% CI 0.86 to 1.06; P = 0.38).",
+      "MRI subset: less white matter lesion accrual (P = 0.01)."
+     ],
+     "caveat": "Secondary outcomes of an open-label trial; median follow-up 3.8 years."
+    },
+    {
+     "pmid": "43001763",
+     "design": "RCT, open label",
+     "verdict": "pos",
+     "title": "Left bundle-branch vs right ventricular pacing in atrioventricular block (OptimPacing)",
+     "bullets": [
+      "n=685 analyzed; median follow-up 35.1 months.",
+      "Composite 8.5% vs 19.2% at 4 years (HR 0.41; 95% CI 0.23 to 0.75)."
+     ],
+     "caveat": "Stopped early for benefit; small event count."
+    },
+    {
+     "pmid": "42998670",
+     "design": "RCT, double blind, noninferiority",
+     "verdict": "neg",
+     "title": "Cangrelor vs crushed ticagrelor in myocardial infarction with cardiogenic shock (DAPT-SHOCK-AMI)",
+     "bullets": [
+      "n=605 across 29 European hospitals.",
+      "Platelet reactivity index below 50% after PCI: 100% (56 of 56) vs 22% (15 of 68).",
+      "30-day death, myocardial infarction or ischemic stroke 38% vs 41%; noninferiority not demonstrated (P noninferiority = 0.13).",
+      "Major bleeding 6% vs 5%."
+     ],
+     "caveat": "Platelet end point measured in only about one fifth of patients; 1 percentage point margin."
+    },
+    {
+     "pmid": "42999950",
+     "design": "RCT, phase 2",
+     "verdict": "pos",
+     "title": "Ferric derisomaltose in HFpEF with iron deficiency (IRONMET-HFpEF)",
+     "bullets": [
+      "n=65 (44 vs 21), single 1000 mg dose.",
+      "Peak oxygen uptake +1.2 vs +0.1 mL/kg/min at 12 weeks (difference 1.1; P = 0.02).",
+      "6-minute walk and NYHA class improved; Kansas City Cardiomyopathy Questionnaire not different (P = 0.20)."
+     ],
+     "caveat": "Small, 2:1 allocation; 12 weeks; surrogate functional end point."
+    },
+    {
+     "pmid": "42998244",
+     "design": "RCT, extended follow-up",
+     "verdict": "neu",
+     "title": "Invasive vs conservative strategy in chronic coronary disease, 11-year survival (ISCHEMIA-EXTEND)",
+     "bullets": [
+      "n=5179; median follow-up 9 years; 1071 deaths.",
+      "All-cause mortality at 11 years 25.8% vs 26.9% (adjusted HR 0.97; 95% CI 0.86 to 1.09).",
+      "Cardiovascular mortality 15.8% vs 17.1% (adjusted HR 0.88; 95% CI 0.75 to 1.02); noncardiovascular 9.1% vs 8.1%."
+     ],
+     "caveat": "Excluded left main disease, ejection fraction below 35% and unacceptable angina; crossover not reported in abstract."
+    },
+    {
+     "pmid": "43001740",
+     "design": "Nonrandomized controlled study",
+     "verdict": "desc",
+     "title": "Prehospital extracorporeal CPR by helicopter teams in refractory out-of-hospital cardiac arrest (OnScene)",
+     "bullets": [
+      "Adults 50 years or younger in the Netherlands; 144 intervention vs 87 conventional.",
+      "Survival to discharge 40% vs 20% (OR 2.72; 95% CI 1.59 to 4.66).",
+      "Favorable neurologic outcome at 6 months 36% vs 13% (OR 4.22).",
+      "Adverse events 32 vs 11."
+     ],
+     "caveat": "Nonrandomized; allocation by helicopter team capability."
+    },
+    {
+     "pmid": "43018508",
+     "design": "Individual participant data meta-analysis",
+     "verdict": "desc",
+     "title": "Left atrial appendage closure vs medical therapy in high stroke and bleeding risk",
+     "bullets": [
+      "CLOSURE-AF and PRAGUE-17; n=1290; median age 77.3 years.",
+      "Stroke, systemic embolism or cardiovascular death 21.9% vs 20.7% (adjusted HR 0.98).",
+      "Major bleeding 9.4% vs 6.0% at 1 year; 13.2% vs 12.1% at 3 years."
+     ],
+     "caveat": "Two trials only; imprecise late estimates."
+    }
+   ]
+  },
+  {
+   "name": "Endocrinology, diabetes and obesity",
+   "items": [
+    {
+     "pmid": "43003106",
+     "design": "RCT, phase 3, cardiovascular safety",
+     "verdict": "pos",
+     "title": "Survodutide cardiovascular outcomes in obesity (SYNCHRONIZE-CVOT)",
+     "bullets": [
+      "n=5507 treated; median time in study 22.0 months.",
+      "Primary composite 3.7% vs 4.1% (HR 0.89; 95% CI 0.67 to 1.18; P < 0.0001 for noninferiority).",
+      "Nausea 48.0% and 49.0% vs 12.1%; gastrointestinal discontinuation 19.3% and 20.8% vs 1.9%."
+     ],
+     "caveat": "Funded by Boehringer Ingelheim; safety (noninferiority) trial with 1.65 margin, not powered for superiority."
+    },
+    {
+     "pmid": "43002161",
+     "design": "Two RCTs, phase 3",
+     "verdict": "pos",
+     "title": "Orforglipron in moderate to severe obstructive sleep apnea with obesity (ATTAIN-OSA)",
+     "bullets": [
+      "Trial 1 (no positive airway pressure, n=363): apnea-hypopnea index (AHI) -17.8 vs -4.5 (difference -13.2).",
+      "Trial 2 (on positive airway pressure, n=349): AHI -17.3 vs -5.3 (difference -12.0).",
+      "6 of 7 key secondary end points significant; gastrointestinal events 68.0% vs 37.4% (trial 1) and 70.6% vs 36.6% (trial 2)."
+     ],
+     "caveat": "Industry-sponsored; 52 weeks; AHI is a surrogate end point."
+    },
+    {
+     "pmid": "43001755",
+     "design": "Two RCTs, phase 3",
+     "verdict": "pos",
+     "title": "Retatrutide in knee osteoarthritis pain with obesity (TRIUMPH-4 and TRIUMPH-1-OA)",
+     "bullets": [
+      "TRIUMPH-4 (n=445): WOMAC pain difference vs placebo -1.83 (9 mg) and -1.61 (12 mg) at 68 weeks; weight -20.0% and -23.7% vs -4.6%.",
+      "TRIUMPH-1-OA (n=574): WOMAC pain difference -1.35 to -1.77 at 80 weeks.",
+      "Serious adverse events more common with retatrutide."
+     ],
+     "caveat": "Funded by Eli Lilly; hybrid estimand for pain; intention-to-treat effects somewhat smaller."
+    }
+   ]
+  },
+  {
+   "name": "Hepatology and gastroenterology",
+   "items": [
+    {
+     "pmid": "43003105",
+     "design": "RCT, phase 2b",
+     "verdict": "pos",
+     "title": "Efinopegdutide in MASH with F2 to F3 fibrosis",
+     "bullets": [
+      "n=381; open-label semaglutide 2.4 mg arm included.",
+      "MASH resolution at 52 weeks: 56%, 63%, 61% (4, 7, 10 mg) vs 13% placebo; semaglutide 53%.",
+      "Fibrosis improvement: 43%, 52%, 34% vs 21%; semaglutide 25%.",
+      "Discontinuation for adverse events 11% at 10 mg."
+     ],
+     "caveat": "Funded by Merck Sharp & Dohme; phase 2b; semaglutide arm open label and not formally compared."
+    },
+    {
+     "pmid": "43000085",
+     "design": "RCT, phase 3",
+     "verdict": "pos",
+     "title": "Seladelpar for alkaline phosphatase normalization in primary biliary cholangitis (IDEAL)",
+     "bullets": [
+      "n=96 with alkaline phosphatase (ALP) 1 to 1.67 times the upper limit of normal on or intolerant to ursodeoxycholic acid.",
+      "ALP normalization at month 12: 75.4% vs 16.1% (difference 61.3%).",
+      "Serious adverse events 3.1% vs 12.9%."
+     ],
+     "caveat": "Biochemical surrogate end point; small; 12 months."
+    }
+   ]
+  },
+  {
+   "name": "Nephrology",
+   "items": [
+    {
+     "pmid": "43024395",
+     "design": "RCT open-label period",
+     "verdict": "desc",
+     "title": "Pegcetacoplan in C3 glomerulopathy and primary immune-complex MPGN, 52 weeks (VALIANT)",
+     "bullets": [
+      "Continuous pegcetacoplan: urine protein-to-creatinine ratio -67.1% at week 26 and -67.2% at week 52.",
+      "Placebo-to-pegcetacoplan: -53.9% after 26 weeks of drug (post hoc).",
+      "52 weeks of drug (n=118, post hoc): eGFR change +0.1 mL/min/1.73 m2; no encapsulated meningococcal infections."
+     ],
+     "caveat": "Exploratory and post hoc open-label analyses; enrolled ages 12 and older."
+    },
+    {
+     "pmid": "43024400",
+     "design": "Target trial emulation",
+     "verdict": "desc",
+     "title": "Second antihypertensive added to ACEi or ARB in CKD",
+     "bullets": [
+      "150,369 veterans with non-dialysis CKD.",
+      "Cardiovascular events vs thiazide: calcium channel blocker adjusted HR 1.18, beta-blocker 1.63, loop diuretic 1.97.",
+      "Kidney composite vs thiazide: 1.42, 1.13, 1.98."
+     ],
+     "caveat": "Observational; confounding by indication likely (loop diuretic users had more advanced CKD or heart failure)."
+    }
+   ]
+  },
+  {
+   "name": "Rheumatology and immunology",
+   "items": [
+    {
+     "pmid": "43000040",
+     "design": "RCT, phase 2",
+     "verdict": "pos",
+     "title": "Obinutuzumab beta in active systemic lupus erythematosus",
+     "bullets": [
+      "n=123 in China.",
+      "SLE Responder Index-4 at week 12: 52% vs 34% (risk difference 19 percentage points; P = 0.022).",
+      "Serious adverse events 20% vs 23% over 52 weeks."
+     ],
+     "caveat": "Funded by Beijing Mabworks; 12-week primary end point; 95% Han Chinese."
+    }
+   ]
+  },
+  {
+   "name": "Pulmonology and critical care",
+   "items": [
+    {
+     "pmid": "43014331",
+     "design": "Prospective cohort",
+     "verdict": "desc",
+     "title": "FEV1 trajectory in adults with cystic fibrosis on elexacaftor-tezacaftor-ivacaftor",
+     "bullets": [
+      "n=2321 in France; percent predicted FEV1 rose a median 14.5 points in the first 3 months.",
+      "Subsequent mean decline 0.70% per year; 31.8% declined more than 1.5% per year.",
+      "Azithromycin (relative risk 0.78) and inhaled antibiotics (0.81) associated with less decline."
+     ],
+     "caveat": "Observational; 3 years of follow-up."
+    },
+    {
+     "pmid": "43016314",
+     "design": "Retrospective cohort",
+     "verdict": "desc",
+     "title": "Sepsis time zero definitions and antibiotic timing",
+     "bullets": [
+      "624,416 encounters with organ dysfunction across 145 US hospitals.",
+      "Antibiotics at 1 to 3 vs 0 to 1 hours: higher mortality only with hypotension (adjusted relative risk 1.07) or lactate 4.0 mmol/L or higher (1.10).",
+      "Without those, 3 to 6 vs 0 to 3 hours: higher mortality only with acute respiratory failure (1.11)."
+     ],
+     "caveat": "Observational electronic health record data; residual confounding possible."
+    }
+   ]
+  },
+  {
+   "name": "Infectious disease",
+   "items": [
+    {
+     "pmid": "43002780",
+     "design": "Active-comparator cohort",
+     "verdict": "desc",
+     "title": "First-trimester doxycycline and pregnancy loss",
+     "bullets": [
+      "218,234 pregnancies with respiratory tract infection and 6636 with acne.",
+      "Respiratory infection, vs amoxicillin: adjusted risk ratio 1.54 (MarketScan) and 1.40 (Medicaid); vs macrolides 1.39 and 1.36.",
+      "Acne vs topical clindamycin: 1.49 (MarketScan), 1.03 (Medicaid, not significant)."
+     ],
+     "caveat": "Claims data; residual confounding and misclassification possible; malformations not assessed."
+    }
+   ]
+  },
+  {
+   "name": "Hematology and thrombosis",
+   "items": [
+    {
+     "pmid": "43013818",
+     "design": "RCT, comparative effectiveness, noninferiority",
+     "verdict": "neg",
+     "title": "Aspirin vs warfarin vs rivaroxaban after hip or knee arthroplasty (PEPPER)",
+     "bullets": [
+      "18,883 randomized; 15,317 per protocol.",
+      "Death or symptomatic VTE at 6 months: 1.26% aspirin, 1.23% warfarin, 0.94% rivaroxaban; aspirin not noninferior (margin 0.69 percentage points).",
+      "Safety composite: 2.91%, 3.36%, 3.48%; anticoagulants not noninferior to aspirin."
+     ],
+     "caveat": "Publicly funded (PCORI); blinded outcome assessment; low absolute event rates; 3566 randomized patients not in the per-protocol analysis."
+    },
+    {
+     "pmid": "42998669",
+     "design": "RCT, phase 2",
+     "verdict": "pos",
+     "title": "Factor XI antibodies amrecibart and cenvacibart for PICC-related thrombosis (ROXI-CATH)",
+     "bullets": [
+      "n=195, single infusion.",
+      "VTE to day 14: 20% and 20% vs 43% placebo (OR 0.37 and 0.36).",
+      "No major bleeding; clinically relevant non-major bleeding 3% in each group."
+     ],
+     "caveat": "Funded by Regeneron; mostly ultrasound-detected events; 14-day window."
+    }
+   ]
+  },
+  {
+   "name": "Geriatrics and general medicine",
+   "items": [
+    {
+     "pmid": "43001742",
+     "design": "RCT, open label, noninferiority",
+     "verdict": "pos",
+     "title": "Discontinuing primary-prevention statins in adults 70 and older (STREAM)",
+     "bullets": [
+      "n=1880; mean age 77.5 years; at least two chronic conditions.",
+      "Restricted mean event-free survival difference at 2 years -2.0 weeks (margin -5.2; P < 0.001 for noninferiority).",
+      "Events 12.7% vs 9.2%; serious adverse events 43.0% vs 39.8%."
+     ],
+     "caveat": "Open label; 2-year horizon; raw event rates numerically higher after discontinuation."
+    },
+    {
+     "pmid": "43014822",
+     "design": "RCT, double blind",
+     "verdict": "pos",
+     "title": "Holding ACEi or ARB on the morning of non-cardiac surgery in older adults",
+     "bullets": [
+      "n=2012 aged 60 to 80 years in China.",
+      "Perioperative hypotension 31.2% vs 45.5% (adjusted OR 0.52; risk difference -14.4%).",
+      "Vasopressor use 28.5% vs 41.1%; no difference in 30-day complications or mortality."
+     ],
+     "caveat": "Hypotension is a surrogate end point; not powered for 30-day outcomes."
+    },
+    {
+     "pmid": "43000001",
+     "design": "Cluster RCT, pragmatic",
+     "verdict": "pos",
+     "title": "Single-pill combination therapy with team-based care for hypertension in Colombia and Jamaica",
+     "bullets": [
+      "40 clinics, 1706 adults with uncontrolled hypertension.",
+      "SBP change at 18 months -19.1 vs -9.0 mm Hg (difference -10.1).",
+      "Control below 130/80 mm Hg: 69.5% vs 29.2%."
+     ],
+     "caveat": "Unblinded multicomponent intervention; pills provided free in the intervention arm."
+    },
+    {
+     "pmid": "43002427",
+     "design": "Stepped-wedge cluster RCT",
+     "verdict": "pos",
+     "title": "Drug Burden Index stewardship to deprescribe anticholinergic and sedative drugs in older inpatients",
+     "bullets": [
+      "n=4827 in 6 Australian hospitals; median age 83.0 years.",
+      "Any deprescribing: 41.4% intervention vs 38.1% control (adjusted difference 5.3 percentage points; 95% CI 0.1 to 10.6).",
+      "Effect not sustained after stewardship pharmacists withdrew (37.0%)."
+     ],
+     "caveat": "Smaller effect than hypothesized; process outcome, no clinical outcome benefit shown."
+    }
+   ]
+  }
+ ],
+ "counts": {
+  "candidates": 154,
+  "abstracts": 141,
+  "pmc": 12
+ },
+ "method": [
+  "Source: PubMed E-utilities, entry date within the last 7 days. Query A: 30 internal medicine and subspecialty journals. Query B: publication type Practice Guideline or Guideline in internal medicine topics. Duplicates removed by PMID.",
+  "Screening and summaries: Claude, from abstracts and metadata only. Numbers are copied from abstracts; open the linked record before citing.",
+  "Full text: PMC records exist for 12 of 154 candidates. A PMC record does not guarantee machine-readable full text.",
+  "Excluded by scope: oncology (including NCCN, ACS prostate screening, CSCO-ASCO nasopharyngeal and ALL MRD guidelines), neurology and stroke (including the NEJM trial of intensive blood pressure control after ischemic stroke), pediatrics (pediatric pulmonary hypertension, Fontan, type 1 diabetes immunotherapy and childhood angiitis guidance, EMPIRICAL), surgery-only, health policy, narrative and opinion pieces. The COURAGE extended follow-up in JAMA was skipped because it carries no abstract.",
+  "Not searched: preprints, society websites without PubMed indexing (ACC, ESC, KDIGO, IDSA, ADA living updates), FDA actions.",
+  "Badges describe the result against the primary end point: Positive, Negative, Neutral (no clear difference), Descriptive (observational, uncontrolled, or no efficacy test)."
+ ]
+}
