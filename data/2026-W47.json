@@ -1,0 +1,556 @@
+{
+  "week": "2026-W47",
+  "range": "2026-11-14 to 2026-11-21",
+  "generated": "2026-11-21",
+  "glance": [
+    "Obesity pharmacotherapy: ribupatide (GIP/GLP-1 dual agonist) cut weight 10.7% to 17.7% at 48 weeks in GEMINI-1 (JAMA); lower-dose CagriSema 1.7 mg and 1.0 mg each gave about 21% loss at 68 weeks (REDEFINE 9).",
+    "Finerenone in FSGS (FIND-CKD prespecified analysis): total eGFR slope improved by 1.3 mL/min/1.73 m2/yr and UPCR fell 41% vs placebo.",
+    "Coronary PCI: angiography-derived vFFR met noninferiority to wire FFR at 1 year (LIPSIA-STRATEGY); super-high-pressure balloons noninferior to intravascular lithotripsy for stent expansion (VICTORY); DECISION-CTO 10-year data show no difference.",
+    "Neutral or negative: upadacitinib in Takayasu arteritis (SELECT-TAK, primary end point missed), prediction-aided bDMARD tapering in RA (PATIO), diabetes-educated psychologist for HbA1c in type 1 diabetes.",
+    "MSG-ERC and ECMM published five consensus papers revising clinical trial end points for invasive fungal disease; IPD meta-analysis puts 1-year invasive aspergillosis mortality at 53.8%.",
+    "Guidance: ACC scientific statement on earlier lipid lowering, AHA statement on PAD in acute care, UKKA guideline on AF anticoagulation in advanced CKD, AST IDCOP peritransplant infection update."
+  ],
+  "top": [
+    {
+      "title": "Incretin-based obesity trials: ribupatide (GEMINI-1, JAMA) and lower-dose CagriSema (REDEFINE 9)",
+      "bullets": [
+        "Mechanism (ribupatide): dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 receptor agonist, once weekly subcutaneous.",
+        "GEMINI-1: 567 adults in China without diabetes; weight change at 48 weeks -10.7%, -16.4%, -17.7% with 2, 4, 6 mg vs -1.4% placebo; placebo-adjusted -9.3, -15.0, -16.3 percentage points.",
+        "REDEFINE 9: 309 adults without diabetes, mean BMI 39.1; weight change at 68 weeks -20.7% (1.7 mg each) and -21.0% (1.0 mg each) vs -2.0% pooled placebo (efficacy estimand).",
+        "At least 5% weight loss: 85.7% to 88.0% with ribupatide 4 to 6 mg vs 16.0%; 95.1% and 96.3% with CagriSema vs 33.4%."
+      ],
+      "caveat": "REDEFINE 9 funded by Novo Nordisk; GEMINI-1 limited to adults in China with mean age 34.4 years; gastrointestinal adverse events 47.9% to 63.1% with ribupatide vs 23.1%; no outcome data.",
+      "pmids": ["43035098", "43033821"],
+      "labels": ["GEMINI-1", "REDEFINE 9"]
+    },
+    {
+      "title": "Finerenone in focal segmental glomerulosclerosis (FIND-CKD prespecified analysis, JASN)",
+      "bullets": [
+        "215 participants with FSGS (half primary, half secondary), mean eGFR 45, median UPCR 1427 mg/g, on stable RAS inhibition.",
+        "Total eGFR slope improved by 1.3 mL/min/1.73 m2/yr vs placebo (95% CI 0.5-2.2); consistent in biopsy-proven FSGS (1.4) and in primary vs secondary disease.",
+        "UPCR down 41% at month 12; kidney composite HR 0.58 (95% CI 0.30-1.15).",
+        "Hyperkalemia-related adverse events 15% vs 20%."
+      ],
+      "caveat": "Subgroup of a larger nondiabetic CKD trial; composite end point not significant; proteomics analysis post hoc.",
+      "pmids": ["43034991"]
+    },
+    {
+      "title": "Coronary physiology and lesion preparation: LIPSIA-STRATEGY and VICTORY (JACC)",
+      "bullets": [
+        "LIPSIA-STRATEGY: 1053 patients with intermediate stenoses; 1-year MACE 3.0% with angiography-derived vFFR vs 4.1% with wire FFR (risk difference -1.01 percentage points; P for noninferiority <0.001).",
+        "vFFR led to more revascularization of the study lesion (41.2% vs 35.5%).",
+        "VICTORY: 278 patients with calcified lesions; stent expansion 85% with super-high-pressure noncompliant balloons vs 84% with intravascular lithotripsy (P noninferiority <0.0001); 30-day TVF 2.8% vs 5.7% (HR 0.50; 95% CI 0.15-1.66)."
+      ],
+      "caveat": "LIPSIA event rate lower than anticipated; post hoc relative-margin sensitivity analysis failed noninferiority in mITT. VICTORY uses an imaging surrogate end point, experienced operators with mandatory OCT, 30-day clinical follow-up.",
+      "pmids": ["43033171", "43049118"],
+      "labels": ["LIPSIA-STRATEGY", "VICTORY"]
+    }
+  ],
+  "guidelines": [
+    {
+      "pmid": "43062386",
+      "issuer": "American College of Cardiology (scientific statement)",
+      "title": "Lipid-lowering strategies in the era of early atherosclerosis detection",
+      "bullets": [
+        "Supports earlier identification and more sustained treatment based on lifetime LDL-C burden, inherited and acquired risk enhancers, and subclinical atherosclerosis imaging.",
+        "Imaging-detected atherosclerosis may identify people whose risk calculators underestimate.",
+        "Direct evidence in younger, low short-term-risk populations remains limited; screening strategy, thresholds and cost-effectiveness flagged as open questions."
+      ]
+    },
+    {
+      "pmid": "43036895",
+      "issuer": "American Heart Association (scientific statement)",
+      "title": "Peripheral artery disease in acute care settings",
+      "bullets": [
+        "Covers PAD as a comorbidity in patients hospitalized for other cardiovascular or medical conditions.",
+        "Vascular access for acute MI, cardiogenic shock and valve procedures, mechanical circulatory support placement, and management after recent endovascular or surgical intervention."
+      ]
+    },
+    {
+      "pmid": "43035656",
+      "issuer": "UK Kidney Association (endorsed by British Cardiovascular Society)",
+      "title": "Anticoagulation for atrial fibrillation in adults with advanced kidney disease",
+      "bullets": [
+        "Addresses CrCl below 30 mL/min and dialysis, populations excluded from DOAC trials.",
+        "Recommendations on no anticoagulation as an option, DOAC use, anticoagulant monitoring and left atrial appendage occlusion; abstract does not state the individual recommendations."
+      ]
+    },
+    {
+      "pmid": "43064309",
+      "issuer": "American Society of Transplantation Infectious Diseases Community of Practice",
+      "title": "Pretransplant and peritransplant infections (update of 2019 guidance)",
+      "bullets": [
+        "Donor and recipient screening, donor-derived infection, pretransplant VAD infection, perioperative prophylaxis.",
+        "Posttransplant intra-abdominal infection, pneumonia, UTI and diarrhea; modified GRADE; part of a 5-article series."
+      ]
+    },
+    {
+      "pmid": "43043133",
+      "issuer": "MSG-ERC / ECMM (consensus)",
+      "title": "Revised clinical trial response criteria for invasive fungal disease (5-paper series)",
+      "bullets": [
+        "Updates the 2008 MSG/EORTC response criteria for aspergillosis and other molds, invasive candidiasis, cryptococcosis and endemic mycoses in adults and children.",
+        "Cryptococcal meningitis phase 3 trials: 2-week mortality as primary end point; 10-week or longer survival and CSF clearance as secondary; early fungicidal activity for phase 2 (PMID 43043174).",
+        "Companion papers: molds (43043132), candidiasis (43043134), endemic mycoses (43043169)."
+      ]
+    },
+    {
+      "pmid": "43062879",
+      "issuer": "American Academy of Family Physicians",
+      "title": "2026-2027 influenza, RSV and SARS-CoV-2 immunization for nonpregnant, immunocompetent adults and health care personnel",
+      "bullets": [
+        "Applies to adults 19 years and older; follows the AAFP Adult Immunization Schedule, reviewed annually.",
+        "Abstract states AAFP guidance should be followed where it differs from other organizations; specific recommendations not given in the abstract."
+      ]
+    },
+    {
+      "pmid": "43062379",
+      "issuer": "AGA (clinical practice update)",
+      "title": "Role of liver biopsy",
+      "bullets": [
+        "Evidence and best practice for liver biopsy in liver disease, abnormal liver tests and liver masses.",
+        "Expert commentary format; abstract lists no specific advice statements."
+      ]
+    },
+    {
+      "pmid": "43055695",
+      "issuer": "American College of Radiology",
+      "title": "ACR Appropriateness Criteria: chronic liver disease, 2026 update",
+      "bullets": [
+        "Imaging selection for hemochromatosis, steatosis and fibrosis assessment and surveillance.",
+        "RAND/UCLA method and GRADE; expert opinion where evidence is lacking."
+      ]
+    },
+    {
+      "pmid": "43050617",
+      "issuer": "Brazilian Society of Nephrology (position statement)",
+      "title": "Initiation and interruption of kidney replacement therapy in acute kidney injury",
+      "bullets": [
+        "Favors an individualized, dynamic decision over fixed early or delayed initiation.",
+        "Weaning predictors: urine output above 400 mL/day without diuretics or above 2000 mL/day with diuretics, creatinine clearance above 15 mL/min, no electrolyte or acid-base disturbance."
+      ]
+    },
+    {
+      "pmid": "43035264",
+      "issuer": "Chinese Society of Clinical Pharmacy / Chinese Society of Renal Diseases",
+      "title": "Diagnosis, treatment and management of drug-induced kidney injury (2026)",
+      "bullets": [
+        "Definition, classification, causative drugs, risk factors, severity assessment, prevention, treatment and follow-up.",
+        "Risk identification workflows, monitoring frequency and referral criteria aimed at primary care; Chinese-language full text."
+      ]
+    },
+    {
+      "pmid": "43064604",
+      "issuer": "SED / SEEN / SEMERGEN / SEMFyC / SEMG (Spain, consensus)",
+      "title": "Continuous glucose monitoring in type 2 diabetes on basal insulin",
+      "bullets": [
+        "Priority indications, glycemic targets, follow-up and discontinuation criteria for CGM.",
+        "Abstract does not list the specific indications."
+      ]
+    },
+    {
+      "pmid": "43056209",
+      "issuer": "Italian CardioGenetics Group (consensus)",
+      "title": "Genetic testing pathway for cardiomyopathies after the 2023 ESC guidelines",
+      "bullets": [
+        "Builds on the ESC Class I, level B recommendation for genetic testing in cardiomyopathy.",
+        "Covers phenotype-first approach, testing strategy, direct-to-consumer testing, VUS interpretation, ACMG-based variant reclassification and reproductive counselling."
+      ]
+    },
+    {
+      "pmid": "43042892",
+      "issuer": "JAMA Summit (report)",
+      "title": "Obesity prevention and care",
+      "bullets": [
+        "Frames obesity as a chronic disease; current prevention measures judged inadequate.",
+        "Priorities: food and activity environment, stigma, care delivery models, access to medication and surgery, long-term adherence, payment reform."
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "name": "Cardiology and cardiometabolic",
+      "items": [
+        {
+          "pmid": "43033171",
+          "design": "RCT, noninferiority",
+          "verdict": "pos",
+          "title": "Angiography-derived vFFR vs wire FFR to guide revascularization (LIPSIA-STRATEGY)",
+          "bullets": [
+            "n=1053, intermediate stenoses, acute or chronic coronary syndromes, 8 German centers.",
+            "1-year MACE 3.0% vs 4.1% (relative risk 0.75; 95% CI 0.39-1.45); upper 1-sided 97.5% CI 1.29 percentage points vs 3.5 margin.",
+            "Physiological value 0.80 or less in 43.1% vs 35.9%; study lesion revascularized 41.2% vs 35.5%."
+          ],
+          "caveat": "Low event rate made the absolute margin lenient; post hoc relative-margin analysis failed noninferiority in mITT, passed per protocol. Investigator-initiated."
+        },
+        {
+          "pmid": "43049118",
+          "design": "RCT, noninferiority, PROBE",
+          "verdict": "pos",
+          "title": "Super-high-pressure noncompliant balloons vs intravascular lithotripsy in calcified lesions (VICTORY)",
+          "bullets": [
+            "n=278; 68% severe calcium (OCT Fujino score 4 or more); median pressure 40 vs 6 atm.",
+            "OCT stent expansion 85% vs 84% (P noninferiority <0.0001); consistent across calcium severity.",
+            "30-day TVF 2.8% vs 5.7% (HR 0.50; 95% CI 0.15-1.66); perforation rates did not differ."
+          ],
+          "caveat": "Imaging surrogate primary end point; open-label; experienced operators; 30-day clinical follow-up only."
+        },
+        {
+          "pmid": "43037535",
+          "design": "RCT, 10-year extended follow-up",
+          "verdict": "neu",
+          "title": "Initial CTO-PCI vs no CTO-PCI (DECISION-CTO, 10 years)",
+          "bullets": [
+            "n=804 mITT, 19 centers in 5 Asian countries; 10-year follow-up complete in 85.6%.",
+            "Death, MI, stroke or any revascularization 33.9% vs 37.4% (risk difference -3.5 percentage points; 95% CI -10.4 to 3.3).",
+            "All-cause death 12.7% vs 16.5% (HR 0.76; 95% CI 0.52-1.12)."
+          ],
+          "caveat": "Open-label; wide CIs; PCI of non-CTO lesions encouraged in both arms."
+        },
+        {
+          "pmid": "43038430",
+          "design": "RCT, single-blind",
+          "verdict": "pos",
+          "title": "Biatrial vs left atrial maze during rheumatic mitral valve surgery (ABLATION)",
+          "bullets": [
+            "n=323 with persistent or long-standing persistent AF; mean LA diameter 51.9 mm.",
+            "Freedom from atrial tachyarrhythmia off antiarrhythmics at 12 months 78.7% vs 68.6% (adjusted difference 10.7%; P=0.01).",
+            "Freedom from permanent pacemaker 97.0% vs 98.1%, noninferior (margin -5%)."
+          ],
+          "caveat": "Rheumatic mitral disease only; 12-month follow-up; generalizability to degenerative valve disease uncertain."
+        },
+        {
+          "pmid": "43043327",
+          "design": "Single-arm device study",
+          "verdict": "desc",
+          "title": "Dedicated transcatheter valve (Trilogy) for aortic regurgitation in LVAD patients (JENA-VAD)",
+          "bullets": [
+            "n=50; technical and device success 96.0%; freedom from VARC-3 early safety composite events 90.0%.",
+            "No early death, stroke or MI; new pacemaker in 1 of 7 without prior pacing.",
+            "Leaflet thickening or thrombosis in 11 of 12 imaged patients (22% of cohort, a lower bound)."
+          ],
+          "caveat": "Uncontrolled; median follow-up 105 days; 38 of 50 had no postprocedure imaging."
+        },
+        {
+          "pmid": "43031488",
+          "design": "Diagnostic and prognostic model development, external validation",
+          "verdict": "desc",
+          "title": "AI-ECG for detection and prediction of dilated cardiomyopathy",
+          "bullets": [
+            "Trained on more than 330 000 ECG-echocardiogram pairs; validated in UK Biobank, Zhongshan and Antwerp cohorts.",
+            "AUC .87-.97 for prevalent DCM phenotype; C-index .80-.87 for future DCM, comparable to echocardiography (.80-.90).",
+            "Familial cascade-screening cohorts: 5-year NPV 95.5% and 91.5%, PPV 42.4% and 39.4%; high-risk score 5.1-6.4-fold higher incident DCM."
+          ],
+          "caveat": "Familial cohorts small (n=166 and 177); retrospective; no evidence yet that surveillance guided by the model changes outcomes."
+        },
+        {
+          "pmid": "43063007",
+          "design": "Nationwide registry cohort",
+          "verdict": "desc",
+          "title": "Long-term cause-specific mortality after acute pulmonary embolism (China)",
+          "bullets": [
+            "n=66 192 from 3223 chest pain centres, 2018-2023.",
+            "5-year all-cause mortality 22.41%: cardiovascular 11.84%, non-cardiovascular 10.57%.",
+            "Ischaemic heart disease the largest named cause after 12 months; malignancy peaked at 1-3 months.",
+            "Mortality 11.52% under 55 years vs 38.51% at 75 or older."
+          ],
+          "caveat": "Observational; cause of death from registry linkage; associated-factor analyses exploratory."
+        }
+      ]
+    },
+    {
+      "name": "Endocrinology, diabetes and obesity",
+      "items": [
+        {
+          "pmid": "43035098",
+          "design": "RCT, phase 3",
+          "verdict": "pos",
+          "title": "Once-weekly ribupatide for weight loss in adults in China (GEMINI-1)",
+          "bullets": [
+            "Mechanism: dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 receptor agonist.",
+            "n=567 without diabetes; mean BMI 33.3; 48 weeks.",
+            "Weight change -10.7%, -16.4%, -17.7% (2, 4, 6 mg) vs -1.4%; placebo-adjusted -9.3, -15.0, -16.3 percentage points.",
+            "Gastrointestinal adverse events 47.9% to 63.1% vs 23.1%; 0.7% discontinued for adverse events."
+          ],
+          "caveat": "Chinese population, young (mean age 34.4); no cardiometabolic outcome data."
+        },
+        {
+          "pmid": "43033821",
+          "design": "RCT, phase 3b",
+          "verdict": "pos",
+          "title": "Cagrilintide-semaglutide 1.7 mg each and 1.0 mg each (REDEFINE 9)",
+          "bullets": [
+            "n=309 without diabetes, mean BMI 39.1, 77% female; 68 weeks.",
+            "Weight change -20.7% (1.7 mg each) and -21.0% (1.0 mg each) vs -2.0% pooled placebo; ETD -18.8 and -19.0 percentage points.",
+            "At least 5% loss: 95.1% and 96.3% vs 33.4%.",
+            "Adverse events 99% and 95% vs 91%, mostly gastrointestinal, mild or moderate."
+          ],
+          "caveat": "Funded by Novo Nordisk; efficacy estimand reported; 82% on treatment at week 68."
+        },
+        {
+          "pmid": "43038532",
+          "design": "RCT, sham-controlled",
+          "verdict": "pos",
+          "title": "Acupoint thread embedding for weight loss in women (Ann Intern Med)",
+          "bullets": [
+            "n=132 women aged 18 to 45, BMI 24 or higher; 6 sessions over 12 weeks.",
+            "BMI -0.7 kg/m2 and weight -1.8 kg vs sham at week 12; -1.1 kg/m2 and -3.0 kg at week 24.",
+            "At least 5% weight loss 25.8% vs 9.1% at 12 weeks; cardiometabolic outcomes did not differ."
+          ],
+          "caveat": "Single center in Shanghai; acupuncturists unmasked; modest effect; short follow-up."
+        },
+        {
+          "pmid": "43062372",
+          "design": "RCT, open-label",
+          "verdict": "neu",
+          "title": "Diabetes-educated psychologist added to care in type 1 diabetes with HbA1c above 7.8%",
+          "bullets": [
+            "n=151, mean HbA1c 9.2%, 6 Swedish clinics; median 9 counseling sessions; 52 weeks.",
+            "HbA1c -0.58% vs -0.36% (difference -0.2%; 95% CI -0.6 to 0.2; P=0.31).",
+            "Diabetes distress reduced (difference -0.2; P=0.040) and treatment satisfaction improved (3.5; P=0.004)."
+          ],
+          "caveat": "Open-label; small; secondary outcomes positive but primary not met."
+        },
+        {
+          "pmid": "43061825",
+          "design": "Retrospective cohort",
+          "verdict": "desc",
+          "title": "Denosumab for osteoporosis beyond 10 years",
+          "bullets": [
+            "4030 treated; 400 with 10 years or more cumulative exposure vs 350 with 5 to 10 years.",
+            "BMD rose steadily without plateau beyond 10 years.",
+            "18 ONJ and 2 AFF cases across the whole cohort, without temporal relation to duration."
+          ],
+          "caveat": "Single-center real-world chart review; surrogate BMD end point; no fracture outcomes in abstract."
+        },
+        {
+          "pmid": "43053284",
+          "design": "Diagnostic model, retrospective",
+          "verdict": "desc",
+          "title": "LC-MS/MS plasma steroid profiling to separate Cushing's disease from ectopic ACTH",
+          "bullets": [
+            "128 patients (95 CD, 33 EAS) at Peking Union Medical College Hospital.",
+            "Predictors: androstenedione (root node), LC-MS/MS cortisol, age, sex.",
+            "Apparent AUC 0.986; accuracy 96.9% (124/128)."
+          ],
+          "caveat": "Apparent performance in development cohort only; needs external validation before replacing BIPSS."
+        }
+      ]
+    },
+    {
+      "name": "Nephrology",
+      "items": [
+        {
+          "pmid": "43034991",
+          "design": "RCT, prespecified subgroup analysis",
+          "verdict": "pos",
+          "title": "Finerenone in FSGS (FIND-CKD)",
+          "bullets": [
+            "n=215 of 1584; mean eGFR 45, median UPCR 1427 mg/g.",
+            "Total eGFR slope +1.3 mL/min/1.73 m2/yr vs placebo (95% CI 0.5-2.2; P=0.002).",
+            "UPCR -41% at month 12; UPCR below 700 mg/g OR 6.8; kidney composite HR 0.58 (95% CI 0.30-1.15).",
+            "Hyperkalemia-related adverse events 15% vs 20%."
+          ],
+          "caveat": "Subgroup of a nondiabetic CKD trial; composite underpowered."
+        },
+        {
+          "pmid": "43057619",
+          "design": "RCT secondary analysis",
+          "verdict": "desc",
+          "title": "GFR slope as a surrogate when eGFR falls by a non-glomerular mechanism (FIELD, fenofibrate)",
+          "bullets": [
+            "n=9795, 5 years; fenofibrate acute eGFR decline -9.05 mL/min/1.73 m2.",
+            "Chronic slope better (+0.61) but total slope worse (-1.54); clinical kidney composite HR 1.48 (95% CI 1.16-1.89).",
+            "Post-washout eGFR (n=660) showed benefit on total slope, contrary to on-study analysis."
+          ],
+          "caveat": "Methodological; creatinine-based end points can diverge from measured kidney function for drugs that alter creatinine handling."
+        },
+        {
+          "pmid": "43057618",
+          "design": "RCT, double-blind crossover, mechanistic",
+          "verdict": "pos",
+          "title": "Dietary sodium restriction and acute endothelin-A receptor antagonism in proteinuric CKD",
+          "bullets": [
+            "Mechanism: BQ123, selective endothelin-A receptor antagonist (intravenous).",
+            "n=12 non-diabetic proteinuric CKD on maximal RAAS inhibition; 13.3 vs 6.3 g salt/day.",
+            "Systolic BP fell about 12-14 mmHg under both diets.",
+            "GFR (about 5 mL/min/1.73 m2), filtration fraction and proteinuria (about 300 ug/min) fell only with sodium restriction."
+          ],
+          "caveat": "Very small; acute infusion; tool compound, not a marketed ERA; long-term relevance untested."
+        }
+      ]
+    },
+    {
+      "name": "Hepatology and gastroenterology",
+      "items": [
+        {
+          "pmid": "43043808",
+          "design": "Multicentre retrospective cohort",
+          "verdict": "desc",
+          "title": "Ammonia predicts hospitalization for bacterial infection in outpatients with cirrhosis",
+          "bullets": [
+            "n=1855 from 5 European and 1 Singaporean centres; 8% of European patients developed infection within 1 year.",
+            "Ammonia 1.75 vs 0.97 times ULN in those infected; each unit raised risk 12-14%; 1.4 times ULN threshold identified higher infection and OHE risk.",
+            "C-index for infection 0.725 (Europe) and 0.877 (Singapore); AMMON-OHE 0.805."
+          ],
+          "caveat": "Retrospective; association, not causation; ammonia sampling standards vary across centres."
+        }
+      ]
+    },
+    {
+      "name": "Rheumatology and immunology",
+      "items": [
+        {
+          "pmid": "43044624",
+          "design": "RCT, phase 3",
+          "verdict": "neu",
+          "title": "Upadacitinib in Takayasu arteritis (SELECT-TAK)",
+          "bullets": [
+            "Mechanism: oral JAK inhibitor.",
+            "n=59 with prior failed glucocorticoid taper; 15 mg daily vs placebo with standardized taper.",
+            "Time to first relapse HR 0.52 (95% CI 0.24-1.12); primary end point not met despite log-rank p=0.045.",
+            "Relapse 37% vs 62%; median time to relapse 107.9 vs 20.1 weeks; serious adverse events 9 vs 4."
+          ],
+          "caveat": "Funded by AbbVie; small; 61% Japanese."
+        },
+        {
+          "pmid": "43045565",
+          "design": "RCT, pragmatic, open-label",
+          "verdict": "neu",
+          "title": "Prediction-aided bDMARD tapering in RA (PATIO)",
+          "bullets": [
+            "n=162 with sustained low disease activity; 18 months.",
+            "Flares per patient 1.00 vs 0.73 with disease activity-guided tapering alone (rate ratio 1.32; 95% CI 0.90-1.95).",
+            "Any flare 57% vs 44%; major flares 22% vs 15%; dose reduction similar.",
+            "Tapering advice not followed at 23% of visits."
+          ],
+          "caveat": "Superiority trial; point estimates favor usual tapering; adherence to model advice incomplete."
+        },
+        {
+          "pmid": "43059569",
+          "design": "National registry cohort (RISE-Medicare)",
+          "verdict": "desc",
+          "title": "High-risk medication prescribing in older adults with rheumatic disease",
+          "bullets": [
+            "n=45 455 aged 65 or older; 30.7% received at least 1 high-risk medication.",
+            "82.3% of prescriptions from non-rheumatology clinicians; muscle relaxants, first-generation antihistamines, anticholinergic antidepressants, Z-drugs common.",
+            "Highest odds in axial SpA (OR 1.40) and Sjogren's disease (OR 1.39) vs RA."
+          ],
+          "caveat": "Cross-sectional, 2021 data; no outcome linkage."
+        },
+        {
+          "pmid": "43059591",
+          "design": "Biobank genetic association study",
+          "verdict": "desc",
+          "title": "Genetic risk scores and b/tsDMARD treatment patterns in RA",
+          "bullets": [
+            "2454 (MVP) and 461 (MGB) patients; patterns: TNFi persisters, TNFi to abatacept, multi-drug cyclers.",
+            "Higher RA GRS: multi-drug cycling OR 1.137 per SD vs TNFi persisters.",
+            "Higher SpA GRS: lower odds of cycling (OR 0.824), i.e. more TNFi persistence."
+          ],
+          "caveat": "Small effect sizes; not a predictive tool yet; mostly veteran cohort."
+        }
+      ]
+    },
+    {
+      "name": "Pulmonology and sleep",
+      "items": [
+        {
+          "pmid": "43059008",
+          "design": "Retrospective EHR cohort, overlap weighting",
+          "verdict": "desc",
+          "title": "GLP-1-based drugs vs tezepelumab in obesity-associated asthma without diabetes",
+          "bullets": [
+            "Mechanism: GLP-1 receptor agonists and dual GLP-1/GIP receptor agonists, compared with tezepelumab.",
+            "n=2779 (semaglutide 1770, tirzepatide 472, liraglutide 133, tezepelumab 404) with at least 1 severe exacerbation in the prior year.",
+            "Severe exacerbation vs tezepelumab: tirzepatide wHR 0.41 (95% CI 0.24-0.70); semaglutide wHR 0.99 (0.70-1.39)."
+          ],
+          "caveat": "Observational, confounding by indication; authors call for trials."
+        },
+        {
+          "pmid": "43035945",
+          "design": "RCT, noninferiority",
+          "verdict": "pos",
+          "title": "Telemedicine-based vs in-person APAP management in OSA: 24-hour blood pressure",
+          "bullets": [
+            "n=344 randomized, 256 completed 3 months.",
+            "Difference in 24-hour mean BP change -0.59 mmHg (95% CI -2.42 to 1.25) ITT; upper limit below 1.5 mmHg margin.",
+            "No clear difference in APAP adherence, patient-reported or metabolic outcomes."
+          ],
+          "caveat": "26% did not complete follow-up; 3 months only."
+        }
+      ]
+    },
+    {
+      "name": "Infectious disease",
+      "items": [
+        {
+          "pmid": "43057280",
+          "design": "Systematic review and IPD meta-analysis",
+          "verdict": "desc",
+          "title": "Mortality in invasive aspergillosis",
+          "bullets": [
+            "IPD from 46 studies, 3880 patients (209 eligible studies, 15 357 patients).",
+            "Mortality 26.7% at 4 weeks, 41.7% at 12 weeks, 53.8% at 1 year, 57.2% at 2 years.",
+            "ICU mortality 57.1%; 4-week mortality 42.9% with ICU admission and 40.4% for brain disease."
+          ],
+          "caveat": "I2 above 89%; IPD obtained for a minority of eligible studies; COVID-19 dominated the ICU cohort."
+        },
+        {
+          "pmid": "43062964",
+          "design": "RCT substudy, open-label",
+          "verdict": "neu",
+          "title": "High-dose vs standard-dose influenza vaccine: symptom burden in breakthrough infection (DANFLU-2 Homeswab)",
+          "bullets": [
+            "10 140 randomized aged 65 or older; 1273 analyzable self-swabs, 121 influenza-positive (44 vs 77).",
+            "Symptom severity in laboratory-confirmed influenza did not differ.",
+            "Post hoc relative vaccine effectiveness against confirmed influenza 42.2% (95% CI 16.4%-60.0%)."
+          ],
+          "caveat": "Exploratory; few breakthrough infections; incomplete questionnaire completion."
+        },
+        {
+          "pmid": "43055268",
+          "design": "PK/PD analysis of an RCT",
+          "verdict": "desc",
+          "title": "Rifampicin exposure and tolerability in high-dose TB preventive therapy (2R2)",
+          "bullets": [
+            "n=1368 adults and adolescents; 2 months at 20 or 30 mg/kg/day vs 4 months at 10 mg/kg/day.",
+            "Doubling of AUC0-24: AE-related discontinuation aOR 1.88; non-AE discontinuation aOR 1.42; tolerability symptoms aOR 1.48.",
+            "No significant association with hepatotoxicity."
+          ],
+          "caveat": "Exposure modeled from 440 sampled participants; efficacy not assessed."
+        }
+      ]
+    },
+    {
+      "name": "Geriatrics and general medicine",
+      "items": [
+        {
+          "pmid": "43052007",
+          "design": "RCT, 3-arm, pragmatic",
+          "verdict": "pos",
+          "title": "Physiotherapist telephone coaching vs text messaging for adults with mobility limitations (ComeBACK, BMJ)",
+          "bullets": [
+            "n=512, mean age 69, 76% women, 5 Australian states.",
+            "Daily steps at 6 months +931 vs waitlist (95% CI 409-1452) and +571 vs texting.",
+            "Texting vs waitlist +359 (not significant); no serious adverse events."
+          ],
+          "caveat": "Participants and coaches unmasked; device-measured steps as surrogate; 6-month primary time point."
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "candidates": 139,
+    "abstracts": 123,
+    "pmc": 14
+  },
+  "method": [
+    "Source: PubMed E-utilities, entry date within the last 7 days. Query A: 30 internal medicine and subspecialty journals. Query B: publication type Practice Guideline or Guideline in internal medicine topics. Duplicates removed by PMID.",
+    "Screening and summaries: Claude, from abstracts and metadata only. Numbers are copied from abstracts; open the linked record before citing.",
+    "Full text: PMC records exist for 14 of 139 candidates. A PMC record does not guarantee machine-readable full text.",
+    "Excluded by scope: oncology (including BCMA CAR-T and myeloma trials, FORTE, breast irradiation, French prostate cancer guideline), neurology (tau biomarkers, dementia), pediatrics (semaglutide in children, SURMOUNT-ADOLESCENTS, youth-onset type 1 diabetes food insecurity, Swiss paediatric home respiratory support, Powassan virus in children), obstetrics and gynecology (menopause, gestational diabetes, intrapartum trial, prenatal cfDNA), surgery-only (cardiac surgery delirium consensus, robotic pancreatoduodenectomy), ISHLT transplant nursing workforce statement, health policy, narrative and opinion pieces. R21/Matrix-M seasonal malaria mass vaccination trial (Lancet) skipped as a community vaccination campaign outside the internal medicine scope.",
+    "Not searched: preprints, society websites without PubMed indexing (ACC, ESC, KDIGO, IDSA, ADA living updates), FDA actions.",
+    "Badges describe the result against the primary end point: Positive, Negative, Neutral (no clear difference), Descriptive (observational, uncontrolled, or no efficacy test)."
+  ]
+}

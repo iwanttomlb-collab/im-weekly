@@ -1,0 +1,975 @@
+[
+ {
+  "pmid": "43064606",
+  "journal": "Ann Rheum Dis",
+  "title": "Citrullinated antigens induce TLR4-mediated cross-presentation to drive cytotoxic anti-citrullinated antigen CD8⁺ T cell responses in rheumatoid arthritis.",
+  "doi": "10.1016/j.ard.2026.10.3178",
+  "pmc": ""
+ },
+ {
+  "pmid": "43064605",
+  "journal": "Ann Rheum Dis",
+  "title": "Synovial DNA methylation signatures predict TNF inhibitor response in rheumatoid arthritis: an integrative multiomic and machine-learning analysis.",
+  "doi": "10.1016/j.ard.2026.05.012",
+  "pmc": ""
+ },
+ {
+  "pmid": "43064240",
+  "journal": "Kidney Int",
+  "title": "The effects of size and sex mismatch on kidney functional adaption following living donor kidney transplantation.",
+  "doi": "10.1016/j.kint.2026.09.030",
+  "pmc": ""
+ },
+ {
+  "pmid": "43064239",
+  "journal": "Kidney Int",
+  "title": "Proliferative Glomerulonephritis with \"Monoclonal\" Immunoglobulin Deposits: Time for Revising the Name and a New Classification.",
+  "doi": "10.1016/j.kint.2026.07.042",
+  "pmc": ""
+ },
+ {
+  "pmid": "43063371",
+  "journal": "J Clin Oncol",
+  "title": "Reach of State-Mandated Insurance Coverage for Fertility Preservation in Patients With Cancer.",
+  "doi": "10.1200/JCO-26-01296",
+  "pmc": ""
+ },
+ {
+  "pmid": "43063370",
+  "journal": "J Clin Oncol",
+  "title": "Effect of a Multidisciplinary Intervention on Fatigue in Lymphoma Survivors With Persistent Fatigue: A Randomized Controlled Trial (the REFUEL trial).",
+  "doi": "10.1200/JCO-26-00414",
+  "pmc": ""
+ },
+ {
+  "pmid": "43063368",
+  "journal": "J Clin Oncol",
+  "title": "Alectinib as Neoadjuvant Treatment in Potentially Resectable Stage III Anaplastic Lymphoma Kinase-Positive Non-Small Cell Lung Cancer: ALNEO Phase II Trial (GOIRC-01-2020-ML42316).",
+  "doi": "10.1200/JCO-26-00854",
+  "pmc": ""
+ },
+ {
+  "pmid": "43063007",
+  "journal": "Eur Heart J",
+  "title": "Acute pulmonary embolism: long-term cause-specific mortality in a Chinese nationwide registry.",
+  "doi": "10.1093/eurheartj/ehag966",
+  "pmc": ""
+ },
+ {
+  "pmid": "43062979",
+  "journal": "J Clin Endocrinol Metab",
+  "title": "The benefits of reducing calorie intake in patients with familial partial lipodystrophy.",
+  "doi": "10.1210/clinem/dgag466",
+  "pmc": ""
+ },
+ {
+  "pmid": "43062964",
+  "journal": "Clin Infect Dis",
+  "title": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults - A Substudy of the DANFLU-2 Randomized Clinical Trial.",
+  "doi": "10.1093/cid/ciag742",
+  "pmc": ""
+ },
+ {
+  "pmid": "43062826",
+  "journal": "JAMA",
+  "title": "Lp(a) Lowering, a GLP-1 Drug for Sleep Apnea, Stopping Statins in Older Age, and More From AHA 2026.",
+  "doi": "10.1001/jama.2026.22534",
+  "pmc": ""
+ },
+ {
+  "pmid": "43062808",
+  "journal": "JAMA",
+  "title": "\"Bikini Medicine\" No More-Major Medical Societies Propose New Framework for Female Heart Health.",
+  "doi": "10.1001/jama.2026.24772",
+  "pmc": ""
+ },
+ {
+  "pmid": "43062411",
+  "journal": "Diabetes Care",
+  "title": "Early-Phase C-Peptide Response as a Candidate Predictor of Cystic Fibrosis-Related Diabetes in People With Normal Glucose Tolerance: A Multicenter Retrospective Survival Analysis.",
+  "doi": "10.2337/dc26-1988",
+  "pmc": ""
+ },
+ {
+  "pmid": "43062386",
+  "journal": "J Am Coll Cardiol",
+  "title": "Lipid-Lowering Strategies in the Era of Early Atherosclerosis Detection: 2026 ACC Scientific Statement: A Report of the American College of Cardiology.",
+  "doi": "10.1016/j.jacc.2026.10.067",
+  "pmc": ""
+ },
+ {
+  "pmid": "43062372",
+  "journal": "Diabetes Care",
+  "title": "The Effect of a Diabetes-Educated Psychologist on HbA1c and Diabetes Distress in Adults With Type 1 Diabetes: A Multicenter, Open-Label, Randomized Controlled Trial.",
+  "doi": "10.2337/dc26-1843",
+  "pmc": ""
+ },
+ {
+  "pmid": "43061825",
+  "journal": "J Clin Endocrinol Metab",
+  "title": "Long Term Osteoporosis Treatment with Denosumab in a Real-World Setting: Observations beyond 10 years.",
+  "doi": "10.1210/clinem/dgag465",
+  "pmc": ""
+ },
+ {
+  "pmid": "43059603",
+  "journal": "Arthritis Rheumatol",
+  "title": "Sjögren's Disease Salivary Gland Fibroblast Subsets are Interferon Enriched and Aberrantly Promote Pain.",
+  "doi": "10.1002/art.70396",
+  "pmc": ""
+ },
+ {
+  "pmid": "43059591",
+  "journal": "Arthritis Rheumatol",
+  "title": "Inflammatory arthritis genetic risk scores to predict treatment patterns in rheumatoid arthritis.",
+  "doi": "10.1002/art.70399",
+  "pmc": ""
+ },
+ {
+  "pmid": "43059569",
+  "journal": "Arthritis Rheumatol",
+  "title": "Prescribing of High-Risk Medications for Older Adults with Rheumatic Disease.",
+  "doi": "10.1002/art.70400",
+  "pmc": ""
+ },
+ {
+  "pmid": "43059366",
+  "journal": "Clin Infect Dis",
+  "title": "A Survey of Clinical Full-Time Equivalents in Academic Infectious Diseases.",
+  "doi": "10.1093/cid/ciag694",
+  "pmc": ""
+ },
+ {
+  "pmid": "43059008",
+  "journal": "Am J Respir Crit Care Med",
+  "title": "Glucagon-Like Peptide-1 Agonists or Tezepelumab for Obesity-Associated Asthma: A Cohort Study.",
+  "doi": "10.1093/ajrccm/aamag613",
+  "pmc": ""
+ },
+ {
+  "pmid": "43058222",
+  "journal": "Nat Med",
+  "title": "Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy.",
+  "doi": "10.1038/s41591-026-04783-y",
+  "pmc": ""
+ },
+ {
+  "pmid": "43058221",
+  "journal": "Nat Med",
+  "title": "Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy.",
+  "doi": "10.1038/s41591-026-04731-w",
+  "pmc": ""
+ },
+ {
+  "pmid": "43057735",
+  "journal": "Kidney Int",
+  "title": "Uremic toxin clearance in pediatric hemodialysis: fishing upstream may improve the catch.",
+  "doi": "10.1016/j.kint.2026.09.005",
+  "pmc": ""
+ },
+ {
+  "pmid": "43057734",
+  "journal": "Kidney Int",
+  "title": "What's the T? Endogenous testosterone and healthy age-related glomerular filtration rate decline in cisgender men.",
+  "doi": "10.1016/j.kint.2026.09.013",
+  "pmc": ""
+ },
+ {
+  "pmid": "43057733",
+  "journal": "Kidney Int",
+  "title": "Scaling human organoid models for drug discovery in polycystic kidney disease.",
+  "doi": "10.1016/j.kint.2026.09.020",
+  "pmc": ""
+ },
+ {
+  "pmid": "43057619",
+  "journal": "Kidney Int",
+  "title": "Secondary analysis of the FIELD randomized trial evaluated the performance of GFR slope in a non-glomerular model of estimated GFR decline.",
+  "doi": "10.1016/j.kint.2026.10.034",
+  "pmc": ""
+ },
+ {
+  "pmid": "43057618",
+  "journal": "Kidney Int",
+  "title": "Dietary sodium restriction enhances the renoprotective efficacy of endothelin-A receptor antagonism in proteinuric chronic kidney disease.",
+  "doi": "10.1016/j.kint.2026.10.033",
+  "pmc": ""
+ },
+ {
+  "pmid": "43057525",
+  "journal": "J Hepatol",
+  "title": "Checkpoint Inhibition during primary hepatitis E virus infection alters memory development of virus-specific T-cells in humans.",
+  "doi": "10.1016/j.jhep.2026.11.009",
+  "pmc": ""
+ },
+ {
+  "pmid": "43057280",
+  "journal": "Lancet Infect Dis",
+  "title": "Mortality and prognostic factors in invasive aspergillosis: a systematic review and individual patient data meta-analysis.",
+  "doi": "10.1016/S1473-3099(26)00525-6",
+  "pmc": ""
+ },
+ {
+  "pmid": "43057279",
+  "journal": "Lancet",
+  "title": "Spontaneous coronary artery dissection: implications for women's health, clinical care, and future research.",
+  "doi": "10.1016/S0140-6736(26)01485-6",
+  "pmc": ""
+ },
+ {
+  "pmid": "43057277",
+  "journal": "Lancet",
+  "title": "Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial.",
+  "doi": "10.1016/S0140-6736(26)01562-X",
+  "pmc": ""
+ },
+ {
+  "pmid": "43056497",
+  "journal": "JAMA",
+  "title": "Plasma eMTBR-tau as a Biomarker for Chronic Traumatic Encephalopathy Tau Tangle Neuropathology.",
+  "doi": "10.1001/jama.2026.24780",
+  "pmc": ""
+ },
+ {
+  "pmid": "43056221",
+  "journal": "N Engl J Med",
+  "title": "Assessing Multiple Treatment Regimens for Tuberculosis.",
+  "doi": "10.1056/NEJMoa2611913",
+  "pmc": ""
+ },
+ {
+  "pmid": "43056165",
+  "journal": "J Am Soc Nephrol",
+  "title": "ZEB1-Mediated ATPAF1 Repression Impairs ATP Synthase Assembly and Promotes Tubular Epithelial Plasticity in CKD.",
+  "doi": "10.1681/ASN.0000001325",
+  "pmc": ""
+ },
+ {
+  "pmid": "43056099",
+  "journal": "JAMA",
+  "title": "Make It Beautiful.",
+  "doi": "10.1001/jama.2026.22996",
+  "pmc": ""
+ },
+ {
+  "pmid": "43056087",
+  "journal": "JAMA",
+  "title": "Trends in Menopause Hormone Therapy.",
+  "doi": "10.1001/jama.2026.22619",
+  "pmc": ""
+ },
+ {
+  "pmid": "43056077",
+  "journal": "JAMA",
+  "title": "Like Self-Driving Cars, Who or What Do We Actually Want Driving Health Care?: A Conversation With Wilko Schulz-Mahlendorf.",
+  "doi": "10.1001/jama.2026.16050",
+  "pmc": ""
+ },
+ {
+  "pmid": "43056071",
+  "journal": "JAMA",
+  "title": "What Is Motion Sickness?",
+  "doi": "10.1001/jama.2026.21697",
+  "pmc": ""
+ },
+ {
+  "pmid": "43056070",
+  "journal": "JAMA",
+  "title": "Medical Imaging and Pediatric and Adolescent Brain Tumor Risk.",
+  "doi": "10.1001/jama.2026.20441",
+  "pmc": ""
+ },
+ {
+  "pmid": "43055350",
+  "journal": "Am J Respir Crit Care Med",
+  "title": "Charcot-Leyden crystals drive a localized inflammatory niche around mucus plugs in Allergic Bronchopulmonary Aspergillosis.",
+  "doi": "10.1093/ajrccm/aamag589",
+  "pmc": ""
+ },
+ {
+  "pmid": "43055268",
+  "journal": "Clin Infect Dis",
+  "title": "Pharmacokinetic/Pharmacodynamic Analysis of Standard- and High-Dose Rifampicin to Predict Safety, Completion, and Tolerability of Tuberculosis Preventive Therapy in the 2R2 Randomized Controlled Trial.",
+  "doi": "10.1093/cid/ciag647",
+  "pmc": ""
+ },
+ {
+  "pmid": "43053728",
+  "journal": "Eur Heart J",
+  "title": "Climate change: the patient perspective.",
+  "doi": "10.1093/eurheartj/ehag459",
+  "pmc": ""
+ },
+ {
+  "pmid": "43053284",
+  "journal": "J Clin Endocrinol Metab",
+  "title": "Plasma Steroid Profiling for Differentiating Cushing's Disease from Ectopic ACTH Syndrome.",
+  "doi": "10.1210/clinem/dgag463",
+  "pmc": ""
+ },
+ {
+  "pmid": "43052007",
+  "journal": "BMJ",
+  "title": "Physical activity coaching and text messaging for adults with mobility limitations (ComeBACK): hybrid type 1 effectiveness implementation randomised controlled trial.",
+  "doi": "10.1136/bmj-2026-101157",
+  "pmc": ""
+ },
+ {
+  "pmid": "43051685",
+  "journal": "BMJ",
+  "title": "Effect of intrapartum hyoscine butylbromide and sodium bicarbonate on spontaneous vaginal birth in nulliparous women after induction of labour (SAINT): multicentre randomised placebo controlled factorial trial.",
+  "doi": "10.1136/bmj-2026-101069",
+  "pmc": ""
+ },
+ {
+  "pmid": "43051541",
+  "journal": "Kidney Int",
+  "title": "Proteome- and phenome-wide studies identify circulating protein drivers of kidney diseases.",
+  "doi": "10.1016/j.kint.2026.10.030",
+  "pmc": ""
+ },
+ {
+  "pmid": "43051540",
+  "journal": "Kidney Int",
+  "title": "Characterization of the Urine Proteome Using the Olink Explore 3072 Platform.",
+  "doi": "10.1016/j.kint.2026.10.031",
+  "pmc": ""
+ },
+ {
+  "pmid": "43051539",
+  "journal": "Kidney Int",
+  "title": "Transfer RNA-derived small RNA-1:34-Asp-GTC-2 promotes sepsis-associated acute kidney injury by regulating kinase SNRK/transcription factor NF-κB signaling.",
+  "doi": "10.1016/j.kint.2026.10.032",
+  "pmc": ""
+ },
+ {
+  "pmid": "43051538",
+  "journal": "Kidney Int",
+  "title": "Peroxisome depletion suppresses clear cell renal cell carcinoma.",
+  "doi": "10.1016/j.kint.2026.10.028",
+  "pmc": ""
+ },
+ {
+  "pmid": "43051212",
+  "journal": "Lancet Infect Dis",
+  "title": "Thelazia callipaeda: an emerging zoonotic eyeworm from Asia to Europe and North America.",
+  "doi": "10.1016/S1473-3099(26)00482-2",
+  "pmc": ""
+ },
+ {
+  "pmid": "43051211",
+  "journal": "Lancet Infect Dis",
+  "title": "Improving the treatment of invasive fungal infections: novel antifungal and host-directed therapies.",
+  "doi": "10.1016/S1473-3099(26)00522-0",
+  "pmc": ""
+ },
+ {
+  "pmid": "43050661",
+  "journal": "N Engl J Med",
+  "title": "Acute Respiratory Distress Syndrome.",
+  "doi": "10.1056/NEJMra2601172",
+  "pmc": ""
+ },
+ {
+  "pmid": "43050395",
+  "journal": "Blood",
+  "title": "Endothelial IDO1 Drives BBB Disruption in CAR-T-Associated Neurotoxicity Through KYNU-AA-Wnt/β-catenin Pathway.",
+  "doi": "10.1182/blood.2026035669",
+  "pmc": ""
+ },
+ {
+  "pmid": "43050232",
+  "journal": "JAMA",
+  "title": "Conversations With Vaccine-Hesitant Patients.",
+  "doi": "10.1001/jama.2026.18067",
+  "pmc": ""
+ },
+ {
+  "pmid": "43050206",
+  "journal": "JAMA",
+  "title": "Blood-Based Biomarker Testing for Alzheimer Disease in US Clinical Practice.",
+  "doi": "10.1001/jama.2026.23534",
+  "pmc": "PMC13783107"
+ },
+ {
+  "pmid": "43050186",
+  "journal": "JAMA",
+  "title": "Vaccines: The Best of Times, the Worst of Times: A Healthy Dialogue With Paul Offit.",
+  "doi": "10.1001/jama.2026.24032",
+  "pmc": ""
+ },
+ {
+  "pmid": "43049685",
+  "journal": "Diabetes Care",
+  "title": "Food Insecurity Patterns and Risk of Poor Glycemic Control, Acute Complications of Diabetes, and Ability to Obtain Diabetes Technologies in Youth and Young Adults With Youth-Onset Type 1 Diabetes.",
+  "doi": "10.2337/dc26-1885",
+  "pmc": ""
+ },
+ {
+  "pmid": "43049118",
+  "journal": "J Am Coll Cardiol",
+  "title": "Intravascular Lithotripsy vs Super-High-Pressure Noncompliant Balloons for Treatment of Calcified Coronary Lesions: The VICTORY Trial.",
+  "doi": "10.1016/j.jacc.2026.09.016",
+  "pmc": ""
+ },
+ {
+  "pmid": "43048867",
+  "journal": "Clin Infect Dis",
+  "title": "Prevalence of Powassan Virus Infection in Children with Suspected Lyme Disease.",
+  "doi": "10.1093/cid/ciag732",
+  "pmc": ""
+ },
+ {
+  "pmid": "43046975",
+  "journal": "Eur Heart J",
+  "title": "Sex-specific mortality in ischaemic heart disease across Western Europe: 2023 Global Burden of Disease.",
+  "doi": "10.1093/eurheartj/ehag871",
+  "pmc": ""
+ },
+ {
+  "pmid": "43045795",
+  "journal": "Nat Med",
+  "title": "Generational gains in cognitive capacity and dementia incidence rates in Western countries.",
+  "doi": "10.1038/s41591-026-04759-y",
+  "pmc": ""
+ },
+ {
+  "pmid": "43045565",
+  "journal": "Ann Rheum Dis",
+  "title": "Prediction-aided tapering in rheumatoid arthritis patients treated with biOlogicals (PATIO): a randomised controlled trial.",
+  "doi": "10.1016/j.ard.2026.10.3180",
+  "pmc": ""
+ },
+ {
+  "pmid": "43044915",
+  "journal": "Gastroenterology",
+  "title": "Serrated neoplasia of the colorectum: updates on pathology and clinical management.",
+  "doi": "10.1053/j.gastro.2026.11.003",
+  "pmc": ""
+ },
+ {
+  "pmid": "43044879",
+  "journal": "Kidney Int",
+  "title": "B cell-targeting chimeric antigen receptor macrophages protect against autoimmune glomerulonephritis.",
+  "doi": "10.1016/j.kint.2026.10.029",
+  "pmc": ""
+ },
+ {
+  "pmid": "43044878",
+  "journal": "Kidney Int",
+  "title": "Hundred years Alport syndrome: a narrative journey through time from discovery to treatment.",
+  "doi": "10.1016/j.kint.2026.07.041",
+  "pmc": ""
+ },
+ {
+  "pmid": "43044624",
+  "journal": "Lancet Rheumatol",
+  "title": "Efficacy and safety of upadacitinib in Takayasu arteritis (SELECT-TAK): a multicentre, double-blind, randomised, placebo-controlled, phase 3 trial.",
+  "doi": "10.1016/S2665-9913(26)00254-7",
+  "pmc": ""
+ },
+ {
+  "pmid": "43044623",
+  "journal": "Lancet Infect Dis",
+  "title": "Therapeutic plasma exchange and continuous renal replacement therapy for severe dengue with multiorgan failure: a case report and focused review.",
+  "doi": "10.1016/S1473-3099(26)00483-4",
+  "pmc": ""
+ },
+ {
+  "pmid": "43044618",
+  "journal": "Lancet Gastroenterol Hepatol",
+  "title": "Robotic versus open pancreatoduodenectomy: a systematic review and individual patient data meta-analysis.",
+  "doi": "10.1016/S2468-1253(26)00265-7",
+  "pmc": ""
+ },
+ {
+  "pmid": "43044617",
+  "journal": "Lancet",
+  "title": "Natural ligand-based CAR T-cell therapy targeting BCMA and TACI for relapsed or refractory multiple myeloma (TriPRIL): a non-randomised, phase 1, first-in-human trial.",
+  "doi": "10.1016/S0140-6736(26)01806-4",
+  "pmc": ""
+ },
+ {
+  "pmid": "43044095",
+  "journal": "J Clin Oncol",
+  "title": "Partial-Breast Irradiation Versus Whole-Breast Irradiation for Low-Risk Invasive Breast Carcinoma: 5-Year Results of the Multicenter, Randomized, Phase III IRMA Trial.",
+  "doi": "10.1200/JCO-26-00969",
+  "pmc": ""
+ },
+ {
+  "pmid": "43043871",
+  "journal": "Blood",
+  "title": "Cytokines to modulate CAR T cells.",
+  "doi": "10.1182/blood.2026035098",
+  "pmc": ""
+ },
+ {
+  "pmid": "43043808",
+  "journal": "Hepatology",
+  "title": "Hyperammonaemia is associated with hospitalisation for bacterial infection: A multicentre cohort study.",
+  "doi": "10.1097/HEP.0000000000001919",
+  "pmc": ""
+ },
+ {
+  "pmid": "43043419",
+  "journal": "Circulation",
+  "title": "Hedgehog Signaling-Dependent Heterochronic Control of Cardiomyocyte Differentiation Establishes Distinct Cardiac Progenitor Fields.",
+  "doi": "10.1161/CIRCULATIONAHA.126.080498",
+  "pmc": ""
+ },
+ {
+  "pmid": "43043327",
+  "journal": "J Am Coll Cardiol",
+  "title": "Outcomes of Transcatheter Aortic Valve Replacement for Aortic Regurgitation in LVAD Patients: The JENA-VAD Study.",
+  "doi": "10.1016/j.jacc.2026.10.059",
+  "pmc": ""
+ },
+ {
+  "pmid": "43043174",
+  "journal": "Clin Infect Dis",
+  "title": "Clinical Trial Endpoints for Cryptococcosis: Consensus Recommendations by the Mycoses Study Group Education & Research Consortium and European Confederation of Medical Mycology.",
+  "doi": "10.1093/cid/ciag581",
+  "pmc": ""
+ },
+ {
+  "pmid": "43043169",
+  "journal": "Clin Infect Dis",
+  "title": "Trial Endpoints for Endemic Mycoses: Consensus Recommendations by the Mycoses Study Group Education and Research Consortium and European Confederation of Medical Mycology.",
+  "doi": "10.1093/cid/ciag582",
+  "pmc": ""
+ },
+ {
+  "pmid": "43043134",
+  "journal": "Clin Infect Dis",
+  "title": "Trial Endpoints for Candidemia and Invasive Candidiasis: Consensus Recommendations by the Mycoses Study Group Education & Research Consortium and European Confederation of Medical Mycology.",
+  "doi": "10.1093/cid/ciag583",
+  "pmc": ""
+ },
+ {
+  "pmid": "43043133",
+  "journal": "Clin Infect Dis",
+  "title": "Revised Consensus Clinical Trial Response Criteria by the Mycoses Study Group Education & Research Consortium and European Confederation of Medical Mycology.",
+  "doi": "10.1093/cid/ciag579",
+  "pmc": ""
+ },
+ {
+  "pmid": "43043132",
+  "journal": "Clin Infect Dis",
+  "title": "Trial Endpoints for Aspergillus and Rare Molds: Consensus Recommendations by the Mycoses Study Group Education and Research Consortium and the European Confederation of Medical Mycology.",
+  "doi": "10.1093/cid/ciag580",
+  "pmc": ""
+ },
+ {
+  "pmid": "43042892",
+  "journal": "JAMA",
+  "title": "Toward a Healthier Future Through Obesity Prevention and Care: The JAMA Summit Report on Obesity.",
+  "doi": "10.1001/jama.2026.19759",
+  "pmc": ""
+ },
+ {
+  "pmid": "43039800",
+  "journal": "Ann Rheum Dis",
+  "title": "Shared and distinct inflammatory signatures in gout flare and acute CPP crystal arthritis: systemic inflammation persists in gout despite achieving serum urate target.",
+  "doi": "10.1016/j.ard.2026.10.3177",
+  "pmc": ""
+ },
+ {
+  "pmid": "43039799",
+  "journal": "Ann Rheum Dis",
+  "title": "AI-supported screening for systematic literature reviews informing EULAR recommendations and points to consider.",
+  "doi": "10.1016/j.ard.2026.09.021",
+  "pmc": ""
+ },
+ {
+  "pmid": "43039361",
+  "journal": "Nat Med",
+  "title": "An open agentic AI co-scientist for clinical and biomedical discovery.",
+  "doi": "10.1038/s41591-026-04808-6",
+  "pmc": ""
+ },
+ {
+  "pmid": "43038566",
+  "journal": "JAMA",
+  "title": "A Plasma eMTBR-Tau Immunoassay for Detection of Advanced Insoluble Tau Pathology.",
+  "doi": "10.1001/jama.2026.25143",
+  "pmc": "PMC13775139"
+ },
+ {
+  "pmid": "43038532",
+  "journal": "Ann Intern Med",
+  "title": "Acupoint Thread Embedding for Weight Loss in Women With Overweight or Obesity : A Randomized Controlled Trial.",
+  "doi": "10.7326/ANNALS-26-02294",
+  "pmc": ""
+ },
+ {
+  "pmid": "43038436",
+  "journal": "Circulation",
+  "title": "Immersive Reality in Cardiothoracic Surgical Education.",
+  "doi": "10.1161/CIRCULATIONAHA.126.081803",
+  "pmc": ""
+ },
+ {
+  "pmid": "43038431",
+  "journal": "Circulation",
+  "title": "Transapical Beating-Heart Septal Myectomy for Symptomatic Nonobstructive Hypertrophic Cardiomyopathy: Initial Clinical Experience.",
+  "doi": "10.1161/CIRCULATIONAHA.126.082486",
+  "pmc": "PMC13777011"
+ },
+ {
+  "pmid": "43038430",
+  "journal": "Circulation",
+  "title": "Biatrial Versus Left Atrial Maze Ablation During Cardiac Valve Surgery for Persistent Atrial Fibrillation: The ABLATION Trial.",
+  "doi": "10.1161/CIRCULATIONAHA.126.083005",
+  "pmc": ""
+ },
+ {
+  "pmid": "43038428",
+  "journal": "Circulation",
+  "title": "Degenerative Mitral Regurgitation: From Prolapse to Precision Therapy.",
+  "doi": "10.1161/CIRCULATIONAHA.126.081203",
+  "pmc": ""
+ },
+ {
+  "pmid": "43038427",
+  "journal": "Circulation",
+  "title": "Transapical Beating-Heart Septal Myectomy for Obstructive Hypertrophic Cardiomyopathy.",
+  "doi": "10.1161/CIRCULATIONAHA.126.080166",
+  "pmc": ""
+ },
+ {
+  "pmid": "43038425",
+  "journal": "Circulation",
+  "title": "Surgical Treatment of Atrial Fibrillation.",
+  "doi": "10.1161/CIRCULATIONAHA.126.083715",
+  "pmc": ""
+ },
+ {
+  "pmid": "43038379",
+  "journal": "Diabetes Care",
+  "title": "Continuous Glucose Monitoring- Measured Glucose Levels During Oral Glucose Tolerance Testing in Youths With Obesity: Accuracy and Clinical Implications.",
+  "doi": "10.2337/dc26-1717",
+  "pmc": ""
+ },
+ {
+  "pmid": "43038184",
+  "journal": "Blood",
+  "title": "Microbiota-derived short-chain fatty acids control cGVHD development by regulating antibody production.",
+  "doi": "10.1182/blood.2026034453",
+  "pmc": ""
+ },
+ {
+  "pmid": "43038178",
+  "journal": "Blood",
+  "title": "Carfilzomib-based strategies in transplant-eligible multiple myeloma: long-term follow-up of the phase 2 FORTE trial.",
+  "doi": "10.1182/blood.2026035635",
+  "pmc": ""
+ },
+ {
+  "pmid": "43038176",
+  "journal": "Blood",
+  "title": "CENTRAL NERVOUS SYSTEM GRAFT VERSUS HOST DISEASE PATHOPHYSIOLOGY: MECHANISTIC PATHWAYS AND THERAPEUTIC TARGETS.",
+  "doi": "10.1182/blood.2026035230",
+  "pmc": ""
+ },
+ {
+  "pmid": "43038173",
+  "journal": "Blood",
+  "title": "Etentamig in Relapsed/Refractory Multiple Myeloma: Pooled Phase 1 Data of an Investigational BCMA Bispecific Antibody.",
+  "doi": "10.1182/blood.2026034590",
+  "pmc": ""
+ },
+ {
+  "pmid": "43038169",
+  "journal": "Blood",
+  "title": "Regenerative Stress Contributes to Higher Clonal Hematopoiesis with Myelodysplastic Features in Sickle Cell Disease Mice.",
+  "doi": "10.1182/blood.2026034793",
+  "pmc": ""
+ },
+ {
+  "pmid": "43037992",
+  "journal": "JAMA Intern Med",
+  "title": "Removing Race From Standardized Mortality Ratio Risk Adjustment in Dialysis Care Quality Measurement.",
+  "doi": "10.1001/jamainternmed.2026.5632",
+  "pmc": "PMC13775133"
+ },
+ {
+  "pmid": "43037990",
+  "journal": "JAMA Intern Med",
+  "title": "Governing the Environmental Costs of Clinical Artificial Intelligence.",
+  "doi": "10.1001/jamainternmed.2026.5271",
+  "pmc": ""
+ },
+ {
+  "pmid": "43037980",
+  "journal": "JAMA Intern Med",
+  "title": "Evaluation of Premarket-Identified Serious Risks for Drugs and Biologics Using FDA Surveillance Systems.",
+  "doi": "10.1001/jamainternmed.2026.5774",
+  "pmc": "PMC13775138"
+ },
+ {
+  "pmid": "43037978",
+  "journal": "JAMA",
+  "title": "Blood Conservation and Choice in Surgical Transfusion.",
+  "doi": "10.1001/jama.2026.22620",
+  "pmc": ""
+ },
+ {
+  "pmid": "43037974",
+  "journal": "JAMA Intern Med",
+  "title": "Pulmonary and Critical Care for General Internists: Updates from the American Thoracic Society Conference 2026.",
+  "doi": "10.1001/jamainternmed.2026.5860",
+  "pmc": ""
+ },
+ {
+  "pmid": "43037973",
+  "journal": "JAMA",
+  "title": "Glucagon-Like Peptide-1 Utilization Following Withdrawal of Medicaid Coverage for Weight Loss.",
+  "doi": "10.1001/jama.2026.22008",
+  "pmc": "PMC13775135"
+ },
+ {
+  "pmid": "43037971",
+  "journal": "JAMA Intern Med",
+  "title": "What Arrives First.",
+  "doi": "10.1001/jamainternmed.2026.5919",
+  "pmc": ""
+ },
+ {
+  "pmid": "43037562",
+  "journal": "N Engl J Med",
+  "title": "Semaglutide for the Treatment of Obesity in Children 6 to <12 Years of Age.",
+  "doi": "10.1056/NEJMoa2604058",
+  "pmc": ""
+ },
+ {
+  "pmid": "43037535",
+  "journal": "J Am Coll Cardiol",
+  "title": "10-Year Outcomes of Initial CTO-PCI vs No CTO-PCI Strategies for Chronic Total Occlusion: The DECISION-CTO Randomized Trial.",
+  "doi": "10.1016/j.jacc.2026.10.068",
+  "pmc": ""
+ },
+ {
+  "pmid": "43036895",
+  "journal": "Circulation",
+  "title": "Peripheral Artery Disease in Acute Care Settings: Diagnosis and Management of Common Presentations and Emergencies: A Scientific Statement From the American Heart Association.",
+  "doi": "10.1161/CIR.0000000000001479",
+  "pmc": ""
+ },
+ {
+  "pmid": "43035945",
+  "journal": "Am J Respir Crit Care Med",
+  "title": "The Effect of Telemedicine-Based APAP Management on 24-Hour Ambulatory Blood Pressure in Patients with Obstructive Sleep Apnea: A Randomized Clinical Trial.",
+  "doi": "10.1093/ajrccm/aamag627",
+  "pmc": ""
+ },
+ {
+  "pmid": "43035247",
+  "journal": "BMJ",
+  "title": "Critical condition: what are we doing about nuclear war?",
+  "doi": "10.1136/bmj-2026-101273",
+  "pmc": "PMC13762674"
+ },
+ {
+  "pmid": "43035098",
+  "journal": "JAMA",
+  "title": "Once-Weekly Ribupatide for Weight Loss in Adults in China With Overweight or Obesity: The GEMINI-1 Randomized Clinical Trial.",
+  "doi": "10.1001/jama.2026.24796",
+  "pmc": "PMC13771822"
+ },
+ {
+  "pmid": "43035096",
+  "journal": "JAMA",
+  "title": "Tirzepatide in Adolescents With Obesity: The SURMOUNT-ADOLESCENTS Randomized Clinical Trial.",
+  "doi": "10.1001/jama.2026.23420",
+  "pmc": "PMC13771823"
+ },
+ {
+  "pmid": "43034991",
+  "journal": "J Am Soc Nephrol",
+  "title": "Finerenone in Patients with Focal Segmental Glomerulosclerosis.",
+  "doi": "10.1681/ASN.0000001333",
+  "pmc": ""
+ },
+ {
+  "pmid": "43033821",
+  "journal": "Lancet Diabetes Endocrinol",
+  "title": "Efficacy and safety of co-administered cagrilintide-semaglutide (CagriSema) 1·7 mg each and 1·0 mg each in adults with overweight or obesity (REDEFINE 9): a multicentre, randomised, double-blind within-dose-level, placebo-controlled, parallel-group, phase 3b trial.",
+  "doi": "10.1016/S2213-8587(26)00275-5",
+  "pmc": ""
+ },
+ {
+  "pmid": "43033171",
+  "journal": "J Am Coll Cardiol",
+  "title": "Angiography-Derived vs Wire-Based Fractional Flow Reserve to Guide Revascularization: The Randomized LIPSIA-STRATEGY Trial.",
+  "doi": "10.1016/j.jacc.2026.10.064",
+  "pmc": ""
+ },
+ {
+  "pmid": "43031493",
+  "journal": "Eur Heart J",
+  "title": "Alcohol and cardiovascular disease: inter-organ crosstalk, microvascular dysfunction, and cardiovascular ageing.",
+  "doi": "10.1093/eurheartj/ehag923",
+  "pmc": ""
+ },
+ {
+  "pmid": "43031488",
+  "journal": "Eur Heart J",
+  "title": "Artificial intelligence-enhanced electrocardiography for detection and prediction of dilated cardiomyopathy.",
+  "doi": "10.1093/eurheartj/ehag917",
+  "pmc": ""
+ },
+ {
+  "pmid": "43026662",
+  "journal": "JAMA",
+  "title": "Fluid eMTBR-tau243 as a Biomarker of Mixed 3-Repeat and 4-Repeat Tau Pathology.",
+  "doi": "10.1001/jama.2026.24689",
+  "pmc": "PMC13768977"
+ },
+ {
+  "pmid": "43025876",
+  "journal": "BMJ",
+  "title": "Effects of plastic exposure on human health.",
+  "doi": "10.1136/bmj-2026-100388",
+  "pmc": ""
+ },
+ {
+  "pmid": "43025768",
+  "journal": "Gastroenterology",
+  "title": "Depletion of Endogenous IL-18 Suppresses Pancreatic Cancer Progression, Reprograms the Tumor Microenvironment, and Enhances KRAS Inhibitor Efficacy.",
+  "doi": "10.1053/j.gastro.2026.10.383",
+  "pmc": ""
+ },
+ {
+  "pmid": "43025758",
+  "journal": "J Hepatol",
+  "title": "Translocation of the environmental bacterium Aquitalea magnusonii promotes systemic inflammation and liver fibrosis in chronic liver disease.",
+  "doi": "10.1016/j.jhep.2026.10.036",
+  "pmc": ""
+ },
+ {
+  "pmid": "43025436",
+  "journal": "Lancet Rheumatol",
+  "title": "Harmonising difficult-to-manage and complex-to-manage psoriatic arthritis: from divergent prevalence estimates to reproducible, mechanism-aware phenotypes.",
+  "doi": "10.1016/S2665-9913(26)00309-7",
+  "pmc": ""
+ },
+ {
+  "pmid": "43064604",
+  "journal": "Endocrinol Diabetes Nutr (Engl Ed)",
+  "title": "Consensus document SED-SEEN-SEMERGEN-SEMFyC-SEMG on the use of continuous glucose monitoring in people with type 2 diabetes mellitus on basal insulin therapy.",
+  "doi": "10.1016/j.endien.2026.501829",
+  "pmc": ""
+ },
+ {
+  "pmid": "43064309",
+  "journal": "Am J Transplant",
+  "title": "Updates on management of pretransplant and peritransplant infections: Guidance from the American Society of Transplantation Infectious Diseases Community of Practice.",
+  "doi": "10.1016/j.ajt.2026.10.019",
+  "pmc": ""
+ },
+ {
+  "pmid": "43062879",
+  "journal": "Am Fam Physician",
+  "title": "2026-2027 Influenza, RSV, and SARSCoV-2 Immunization Recommendations for Nonpregnant, Immunocompetent Adults and Health Care Personnel.",
+  "doi": "",
+  "pmc": ""
+ },
+ {
+  "pmid": "43062379",
+  "journal": "Clin Gastroenterol Hepatol",
+  "title": "AGA Clinical Practice Update on the Role of Liver Biopsy: Commentary.",
+  "doi": "10.1016/j.cgh.2026.09.015",
+  "pmc": ""
+ },
+ {
+  "pmid": "43057642",
+  "journal": "Ann Thorac Surg",
+  "title": "International Expert Consensus Statement on Contemporary Prevention and Management of Postoperative Delirium in Cardiac Surgery.",
+  "doi": "10.1016/j.athoracsur.2026.10.056",
+  "pmc": ""
+ },
+ {
+  "pmid": "43056209",
+  "journal": "J Cardiovasc Med (Hagerstown)",
+  "title": "The genetic path for cardiomyopathies after the European Society of Cardiology Guidelines 2023: a consensus statement of the Italian CardioGenetics Group.",
+  "doi": "10.2459/JCM.0000000000001957",
+  "pmc": ""
+ },
+ {
+  "pmid": "43055710",
+  "journal": "J Heart Lung Transplant",
+  "title": "Statement from the International Society for Heart and Lung Transplantation (ISHLT) Consensus Conference on the Evolving Role of Nursing Professionals in Thoracic Transplantation.",
+  "doi": "10.1016/j.healun.2026.09.024",
+  "pmc": ""
+ },
+ {
+  "pmid": "43055695",
+  "journal": "J Am Coll Radiol",
+  "title": "ACR Appropriateness Criteria® Chronic Liver Disease: 2026 Update.",
+  "doi": "10.1016/j.jacr.2026.10.007",
+  "pmc": ""
+ },
+ {
+  "pmid": "43051704",
+  "journal": "Fr J Urol",
+  "title": "French AFU Cancer Committee Guidelines - Update 2026-2028: Prostate Cancer - Treatment of relapse and metastatic disease.",
+  "doi": "10.1016/j.fjurol.2026.103190",
+  "pmc": ""
+ },
+ {
+  "pmid": "43050617",
+  "journal": "J Bras Nefrol",
+  "title": "Position Statement of the Brazilian Society of Nephrology on the initiation and interruption of artificial renal support in patients with acute kidney injury.",
+  "doi": "10.1590/2175-8239-JBN-2026-0026en",
+  "pmc": "PMC13781498"
+ },
+ {
+  "pmid": "43049482",
+  "journal": "Gynecol Endocrinol",
+  "title": "Non-hormonal management of menopause symptoms-the statement of the European Society of Gynecology.",
+  "doi": "10.1080/09513590.2026.2751783",
+  "pmc": ""
+ },
+ {
+  "pmid": "43045266",
+  "journal": "J Heart Lung Transplant",
+  "title": "Engagement of Social Support Systems in Patients Being Considered for and Following Advanced Heart and Lung Surgical Therapies: A Perspective on an ISHLT Expert Consensus Statement.",
+  "doi": "10.1016/j.healun.2026.08.002",
+  "pmc": ""
+ },
+ {
+  "pmid": "43044046",
+  "journal": "Respiration",
+  "title": "Paediatric Long-Term Home Respiratory Support: Recommendations of the Swiss Society of Paediatric Pulmonology.",
+  "doi": "10.1159/000550985",
+  "pmc": ""
+ },
+ {
+  "pmid": "43041573",
+  "journal": "Sichuan Da Xue Xue Bao Yi Xue Ban",
+  "title": "[Clinical Practice Guidelines for Physical Activity Management in Gestational Diabetes Mellitus (2026)].",
+  "doi": "10.12182/20260960204",
+  "pmc": "PMC13771318"
+ },
+ {
+  "pmid": "43035656",
+  "journal": "BMC Nephrol",
+  "title": "Anticoagulation for atrial fibrillation in adults with advanced kidney disease: UK kidney association clinical practice guideline.",
+  "doi": "10.1186/s12882-026-05270-9",
+  "pmc": "PMC13772389"
+ },
+ {
+  "pmid": "43035264",
+  "journal": "Zhonghua Nei Ke Za Zhi",
+  "title": "[Guideline for the diagnosis, treatment and management of drug-induced kidney injury (2026)].",
+  "doi": "10.3760/cma.j.cn112138-20260602-00336",
+  "pmc": ""
+ },
+ {
+  "pmid": "43033073",
+  "journal": "Genet Med",
+  "title": "Prenatal cell-free DNA (cfDNA) screening of chromosome abnormalities: A technical standard of the American College of Medical Genetics and Genomics (ACMG) and the College of American Pathologists (CAP).",
+  "doi": "10.1016/j.gim.2026.102743",
+  "pmc": "PMC13772124"
+ }
+]
